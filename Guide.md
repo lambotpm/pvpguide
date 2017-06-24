@@ -96,3 +96,110 @@ TODO: Mention not overlapping PS with other shit.
 TODO: Mention why Mindbender is awesome.
 
 ## Macros & Keybinds
+
+TODO: Write about this stuff, maybe remove the PvE macros, at least clean it up a bit and write a comment for each one.
+
+Dispel Magic:
+
+```
+#showtooltip
+/cast [help] Purify; [harm] Dispel Magic
+/cast [@player] Purify
+```
+
+Mind Control arena1, arena2, arena3:
+
+```
+VER 3 000000000000004F "mc1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena1] Mind Control
+END
+VER 3 0000000000000050 "mc2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena2] Mind Control
+END
+VER 3 0000000000000051 "mc3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena3] Mind Control
+END
+```
+
+```
+VER 3 0100000000000012 "arch" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [pvptalent:6/1] Power Word: Fortitude; [pvptalent:6/2] Archangel; [pvptalent:6/3] Dark Archangel
+/use Velen's Future Sight
+END
+VER 3 010000000000000D "fedder" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Angelic Feather
+/stopspelltarget
+END
+VER 3 010000000000000A "levitate" "INV_MISC_QUESTIONMARK"
+#showtoolip
+/cast [@mouseover,exists,help][] Levitate
+END
+VER 3 0100000000000009 "lifegrip" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help][] Leap of Faith
+END
+VER 3 0100000000000010 "lot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help][] Light of T'uure
+END
+VER 3 0100000000000007 "lvl100" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/3,@mouseover,exists,help][talent:7/3] Circle of Healing; [talent:7/1] Apotheosis
+END
+VER 3 0100000000000006 "lvl90" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Divine Star; [talent:6/3] Halo; [spec:1,talent:6/1,@mouseover,exists,help][spec:1,talent:6/1] Clarity of Will
+END
+VER 3 0100000000000002 "mend" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,exists,help][spec:1] Shadow Mend; [spec:2,@mouseover,exists,help][spec:2] Flash Heal; [spec:3,@mouseover,exists,help][spec:3]Shadow Mend
+END
+VER 3 010000000000000C "pi" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [spec:1,talent:7/1] Power Infusion; [spec:1,talent:7/3] Evangelism
+END
+VER 3 0100000000000001 "plea" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,exists,help][spec:1] Plea; [spec:2,@mouseover,exists,help][spec:2] Renew
+END
+VER 3 010000000000000E "pom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,exists,help][spec:1] Penance; [spec:2,@mouseover,exists,help][spec:2] Prayer of Mending
+END
+VER 3 0100000000000013 "prem" "INV_MISC_QUESTIONMARK"
+#showtooltip Premonition
+/stopcasting
+/stopcasting
+/cast Premonition
+END
+VER 3 0100000000000004 "ps" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,exists,help][spec:1] Pain Suppression; [spec:2,@mouseover,exists,help][spec:2] Guardian Spirit
+/cast [spec:1,@mouseover,exists,help][spec:1] Power Word: Shield
+END
+VER 3 0100000000000008 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help][] Purify
+END
+VER 3 0100000000000003 "pwr" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,exists,help][spec:1] Power Word: Radiance; [spec:2,@mouseover,exists,help][spec:2] Prayer of Healing
+END
+VER 3 0100000000000005 "pws" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,exists,help][spec:1] Power Word: Shield; [spec:2,@mouseover,exists,help][spec:2] Heal; [spec:3,@mouseover,exists,help][spec:3] Power Word: Shield
+END
+VER 3 0100000000000014 "scov" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help][] Shadow Covenant
+END
+VER 3 0100000000000011 "serenity" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,help][] Holy Word: Serenity
+END
+```
