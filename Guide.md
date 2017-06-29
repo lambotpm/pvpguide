@@ -6,14 +6,18 @@ TODO: Not complain about Holy being more meta right now. Nerf Warriors pls.
 
 ## Gearing
 
-TODO: Take a screenshot showing PvP stat template!
+As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and pre-determined, i.e. there's no way to influence your template to have more Haste. 
+
+TODO: Take a screenshot showing how stats change.
 
 ## Talents - 3v3
 
 ### Standard talents
+TL;DR: This is the default talent loadout. 
 ![Standard talents](img/3v3talents.png)
 
 ### PvP Standard talents
+TL;DR: This is the default talent loadout.
 ![PvP Standard talents](img/3v3honortalents.png)
 
 #### Row 1
