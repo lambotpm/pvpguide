@@ -2,7 +2,9 @@
 
 ## Introduction
 
-TODO: Not complain about Holy being more meta right now. Nerf Warriors pls.
+Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 4, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
+
+This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 4.
 
 ## Gearing
 
@@ -139,7 +141,7 @@ Let's take a look at some of the common strong compositions Discipline Priests a
 
 ### RMP - Rogue / Mage / Priest
 
-This classic composition has been strong since as far back as *The Burning Crusade.* The idea here is to overwhelm the enemy team with as much cross-CC as possible to force defensive cooldowns very early on. In this composition, you will find yourself playing much more aggressively to try to secure a very early kill.
+This classic composition has been strong since as far back as *The Burning Crusade.* The idea here is to overwhelm the enemy team with as much cross-CC as possible to force defensive cooldowns very early on. In this composition, you will find yourself playing much more aggressively to try to secure a very early kill. Look for openings when you can follow up a Polymorph or Kidney Shot with a fear while your teammates lock everybody else in place.
 
 ### Thug Cleave - Sub Rogue / Hunter / Priest
 
@@ -147,7 +149,7 @@ With the recent buffs to Sub Rogue output and the insane amount of cross-CC avai
 
 ### Cupid - Ret Paladin / Hunter / Priest
 
-Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary.
+Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: folow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
 
 ## Common opponents - 3v3
 
@@ -199,7 +201,7 @@ Macros are also a matter of personal preference to some degree - if you have a m
 Ultimately how you set up your character's bars is up to you, but here's some macros I've found useful. 
 
 
-Dispel Magic:
+Dispelling:
 
 ```
 #showtooltip
