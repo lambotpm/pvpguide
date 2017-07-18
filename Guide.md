@@ -29,24 +29,51 @@ TL;DR: This is the default talent loadout.
 #### Row 1
 ![Talent row1](img/talent1.png)
 
+**Usually take -** *Castigation*. Castigation gives a straight 33% buff to our biggest damaging and healing spell, and - like most things Discipline - is great for both damaging and healing. While playing as a team with lots of control or playing against a team that has lots of spread pressure, *Castigation* can offer the most bang for your buck by allowing your team to stay offensive while providing strong healing through Atonement or direct healing (now that *The Penitent* is baseline) in emergency situations.
+
+**Sometimes take -** *Twist of Fate*. Twist of Fate is still an incredibly strong talent for recovering from dangerous situations. It's a strong choice when you're facing against a team that has a lot of crowd control for allowing you to recover quickly, or for when an enemy team is likely to tunnel and try to burst you down.
+
+**Almost never take -** *Schism*. While Schism can provide a substantial buff to your damage output, it's a clunky spell to use and very expensive on mana. It also gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency.
 
 #### Row 2
 ![Talent row2](img/talent2.png)
 
+**Usually take -** *Angelic Feather*. Priest is a very immobile class this expansion. Feathers can help you quickly cross enemy lines to drop a Fear or pull back to safety behind a pillar.
+
+**Rarely take -** *Body and Soul*. While not an awful talent, Power Word: Shields should be spent on mitigating incoming damage on your team, not providing speed buffs. The one upside to this talent is that it requires almost no management and also provides another dispellable buff on your allies, forcing enemies to purge more often to get off important spells.
+
+**Rarely take -** *Masochism*. If you think you're going to be focused by a melee team, Masochism can help keep you alive by providing more damage reduction. Since Discipline Priests are pretty tanky, you won't often find teams trying to focus you down above a certain rating.
+
 #### Row 3
 ![Talent row3](img/talent3.png)
+
+**Almost always take -** *Psychic Voice*. This talent reduces your AoE fear by 30 seconds, which allows for double the amount of crowd control going out against your enemies.
+
+**Rarely take -** *Shining Force*. The knockback effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off.
+
+**Never take -** *Dominant Mind*. It simply does not work in PvP.
 
 #### Row 4
 ![Talent row4](img/talent4.png)
 
+This row not only depends a lot on your comfort level with Priest, but also what composition you're playing and what you're playing against. I go into detail about why I recommend *Mindbender* further down in the cooldown section of this guide, but it's worth mentioning that *Power Word: Solace* is also a good option. *Power Word: Solace* provides the most damage and most mana return out of all of the talent options here in PvP situations, but it requires you to use it virtually on cooldown to not run into mana problems. 
+
 #### Row 5
 ![Talent row5](img/talent5.png)
+
+**Always take -** *Clarity of Will*. Clarity of Will allows you to pre-shield targets for huge amounts at the start of an arena match, mitigating much of an enemy team's opening burst. It also is on the Holy spell school, so if you get spell locked while casting Shadow Mend and Penance is on cooldown, you still have a way to meaningfully heal your team. The other two talents have meaningful impact in PvE situations or 2v2 arenas, but aren't well suited for 3v3.
 
 #### Row 6
 ![Talent row6](img/talent6.png)
 
+**Always take -** *Purge the Wicked*. PtW is a straight damage buff and cost reduction to Shadow Word: Pain. Keep in mind that, so long as your teammates have an active Atonement, every DoT on an enemy also acts as a HoT on your ally. This talent is super strong for providing a steady stream of healing to allies while also helping rot enemies. Since the DoT portion of PtW spreads from your Penances, you also get to have the buff spread for free - providing even more healing.
+
+**Almost never take -** *Divine Star* or *Halo*. These both offer minimal healing in PvP, are expensive on mana, and more often than not will break CC.
+
 #### Row 7
 ![Talent row7](img/talent7.png)
+
+**Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP, and works on the vast majority of healing you will do in an arena match.
 
 
 ### PvP Standard talents
