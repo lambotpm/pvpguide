@@ -15,9 +15,9 @@ Using my highest equipped item level, here are the stats I have in the wild vers
 
 Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
 
-Further, while the specific traits on Artifact Relics aren't active in PvP, the item level bonus and overall traits unlocked _are_. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP (from 4000 base and +300 per extra point to 1500 base and +150 per extra point), but the buff itself still activates.
+Further, while the specific traits on artifact relics aren't active in PvP, the item level bonus and overall traits unlocked _are_ active. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP (from 4000 base and +300 per extra point to 1500 base and +150 per extra point), but the buff itself still activates and is proportionally strong to the amount of bonus traits unlocked. ([Source](https://twitter.com/WarcraftDevs/status/847920878675386368))
 
-TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. 
+TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
 
 
 ## Talents - 3v3
@@ -25,6 +25,29 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 ### Standard talents
 TL;DR: This is the default talent loadout. 
 ![Standard talents](img/3v3talents.png)
+
+#### Row 1
+![Talent row1](img/talent1.png)
+
+
+#### Row 2
+![Talent row2](img/talent2.png)
+
+#### Row 3
+![Talent row3](img/talent3.png)
+
+#### Row 4
+![Talent row4](img/talent4.png)
+
+#### Row 5
+![Talent row5](img/talent5.png)
+
+#### Row 6
+![Talent row6](img/talent6.png)
+
+#### Row 7
+![Talent row7](img/talent7.png)
+
 
 ### PvP Standard talents
 TL;DR: This is the default talent loadout.
