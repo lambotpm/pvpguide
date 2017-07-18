@@ -8,7 +8,14 @@ TODO: Not complain about Holy being more meta right now. Nerf Warriors pls.
 
 As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and pre-determined, i.e. there's no way to influence your template to have more Haste. 
 
-TODO: Take a screenshot showing how stats change.
+Using my highest equipped item level, here are the stats I have in the wild versus the stats I have *through the template* in instanced PvP:
+
+Stats in Dalaran:
+![Stats in Dalaran](img/stats-dal.jpeg)
+
+Stats in arena:
+![Stats in PvP](img/stats-pvp.jpeg)
+
 
 ## Talents - 3v3
 
