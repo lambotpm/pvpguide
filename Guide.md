@@ -72,8 +72,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 7
 ![Talent row7](img/talent7.png)
 
-**Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP, and works on the vast majority of healing you will do in an arena match.
-
+**Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP. There is no reason to consider the other two talents for 3v3 arena.
 
 ### PvP Standard talents
 [TL;DR: This is the default talent loadout.](http://www.wowhead.com/honor-calc/priest/discipline/Jmo)
@@ -189,7 +188,16 @@ One big component to succeeding in arena is knowing when to use cooldowns and to
 
 ## Macros & Keybinds
 
-TODO: Write about this stuff, maybe remove the PvE macros, at least clean it up a bit and write a comment for each one.
+Keybindings are a matter of personal preference, but there are a few specific tasks which you should have bound in PvP. 
+
+You'll certainly want to have keybindings for targeting yourself, targeting party1, and targeting party2. These are configurable through the default interface (Esc -> Key Bindings -> Targeting). You'll also want keybindings for targeting arena1, arena2, and arena3 for when you need to Purge a buff or assist in damage.
+
+In arenas, you really don't want to be relying on either mouseover macros or having to click a unit frame to heal as things are too frantic and mouse movement is too important. The sooner you set those key bindings up and become accustomed to them the easier everything else will become.
+
+Macros are also a matter of personal preference to some degree - if you have a mouse with many buttons on the side, it may be easier to set up friendly dispel macros for yourself and your two party members, but if not it may just be easier to get comfortable targeting each member and using a standard dispel button. 
+
+Ultimately how you set up your character's bars is up to you, but here's some macros I've found useful. 
+
 
 Dispel Magic:
 
@@ -204,99 +212,35 @@ Dispel Magic:
 Mind Control arena1, arena2, arena3:
 
 ```
-VER 3 000000000000004F "mc1" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@arena1] Mind Control
-END
-VER 3 0000000000000050 "mc2" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@arena2] Mind Control
-END
-VER 3 0000000000000051 "mc3" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@arena3] Mind Control
-END
 ```
 
 ```
-VER 3 0100000000000012 "arch" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena2] Mind Control
+```
+
+```
+#showtooltip
+/cast [@arena3] Mind Control
+```
+
+PvP talent tier 6 macro:
+
+```
 #showtooltip 
 /cast [pvptalent:6/1] Power Word: Fortitude; [pvptalent:6/2] Archangel; [pvptalent:6/3] Dark Archangel
-/use Velen's Future Sight
-END
-VER 3 010000000000000D "fedder" "INV_MISC_QUESTIONMARK"
+```
+
+Angelic Feather macro for quickly casting it on yourself:
+
+```
 #showtooltip
 /cast [@player] Angelic Feather
 /stopspelltarget
-END
-VER 3 010000000000000A "levitate" "INV_MISC_QUESTIONMARK"
-#showtoolip
-/cast [@mouseover,exists,help][] Levitate
-END
-VER 3 0100000000000009 "lifegrip" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover,exists,help][] Leap of Faith
-END
-VER 3 0100000000000010 "lot" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover,exists,help][] Light of T'uure
-END
-VER 3 0100000000000007 "lvl100" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [talent:7/3,@mouseover,exists,help][talent:7/3] Circle of Healing; [talent:7/1] Apotheosis
-END
-VER 3 0100000000000006 "lvl90" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [talent:6/2] Divine Star; [talent:6/3] Halo; [spec:1,talent:6/1,@mouseover,exists,help][spec:1,talent:6/1] Clarity of Will
-END
-VER 3 0100000000000002 "mend" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1,@mouseover,exists,help][spec:1] Shadow Mend; [spec:2,@mouseover,exists,help][spec:2] Flash Heal; [spec:3,@mouseover,exists,help][spec:3]Shadow Mend
-END
-VER 3 010000000000000C "pi" "INV_MISC_QUESTIONMARK"
-#showtooltip 
-/cast [spec:1,talent:7/1] Power Infusion; [spec:1,talent:7/3] Evangelism
-END
-VER 3 0100000000000001 "plea" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1,@mouseover,exists,help][spec:1] Plea; [spec:2,@mouseover,exists,help][spec:2] Renew
-END
-VER 3 010000000000000E "pom" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1,@mouseover,exists,help][spec:1] Penance; [spec:2,@mouseover,exists,help][spec:2] Prayer of Mending
-END
-VER 3 0100000000000013 "prem" "INV_MISC_QUESTIONMARK"
-#showtooltip Premonition
-/stopcasting
-/stopcasting
-/cast Premonition
-END
-VER 3 0100000000000004 "ps" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1,@mouseover,exists,help][spec:1] Pain Suppression; [spec:2,@mouseover,exists,help][spec:2] Guardian Spirit
-/cast [spec:1,@mouseover,exists,help][spec:1] Power Word: Shield
-END
-VER 3 0100000000000008 "purify" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover,exists,help][] Purify
-END
-VER 3 0100000000000003 "pwr" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1,@mouseover,exists,help][spec:1] Power Word: Radiance; [spec:2,@mouseover,exists,help][spec:2] Prayer of Healing
-END
-VER 3 0100000000000005 "pws" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [spec:1,@mouseover,exists,help][spec:1] Power Word: Shield; [spec:2,@mouseover,exists,help][spec:2] Heal; [spec:3,@mouseover,exists,help][spec:3] Power Word: Shield
-END
-VER 3 0100000000000014 "scov" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover,exists,help][] Shadow Covenant
-END
-VER 3 0100000000000011 "serenity" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@mouseover,exists,help][] Holy Word: Serenity
-END
 ```
+[For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H).
 
 ## Addons
 
