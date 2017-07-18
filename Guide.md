@@ -1,4 +1,4 @@
-# Discipline Priest PvP Guide - 7.2.5
+# Discipline Priest PvP Guide - 7.2.5 / Legion Season 4
 
 ## Introduction
 
@@ -12,6 +12,12 @@ Using my highest equipped item level, here are the stats I have in the wild vers
 
 ![Stats in Dalaran](img/stats-dal.jpeg)
 ![Stats in PvP](img/stats-pvp.jpeg)
+
+Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
+
+Further, while the specific traits on Artifact Relics aren't active in PvP, the item level bonus and overall traits unlocked _are_. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP (from 4000 base and +300 per extra point to 1500 base and +150 per extra point), but the buff itself still activates.
+
+TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. 
 
 
 ## Talents - 3v3
