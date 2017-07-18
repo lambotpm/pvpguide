@@ -242,7 +242,7 @@ Angelic Feather macro for quickly casting it on yourself:
 /cast [@player] Angelic Feather
 /stopspelltarget
 ```
-[For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H).
+[For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H)
 
 ## Addons
 
