@@ -23,8 +23,7 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 ## Talents - 3v3
 
 ### Standard talents
-TL;DR: This is the default talent loadout. 
-![Standard talents](img/3v3talents.png)
+[TL;DR: This is the default talent loadout.](http://www.wowhead.com/talent-calc/priest/discipline/cCjM)
 
 #### Row 1
 ![Talent row1](img/talent1.png)
@@ -77,8 +76,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 
 ### PvP Standard talents
-TL;DR: This is the default talent loadout.
-![PvP Standard talents](img/3v3honortalents.png)
+[TL;DR: This is the default talent loadout.](http://www.wowhead.com/honor-calc/priest/discipline/Jmo)
 
 #### Row 1
 ![PvP talents row1](img/honor1.png)
