@@ -10,10 +10,7 @@ As of the release of Legion, PvP the stats on your equipment no longer matter in
 
 Using my highest equipped item level, here are the stats I have in the wild versus the stats I have *through the template* in instanced PvP:
 
-Stats in Dalaran:
 ![Stats in Dalaran](img/stats-dal.jpeg)
-
-Stats in arena:
 ![Stats in PvP](img/stats-pvp.jpeg)
 
 
