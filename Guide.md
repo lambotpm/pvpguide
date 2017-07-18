@@ -23,6 +23,12 @@ TL;DR: This is the default talent loadout.
 #### Row 1
 ![PvP talents row1](img/honor1.png)
 
+**Usually take -** *Gladiator's Medallion*. This is the trickiest row in all of the talents because the otimal choice depends upon both which race your Priest plays and also what team you're about to be playing against. Typically the best choice is to stay with the on-demand "trinket," allowing you to choose which enemy setups you need to escape for either saving a teammate or setting up a kill by landing a pivotal fear or throwing out some extra damage.
+
+**Sometimes take -** *Relentless*. This can be a great choice against teams with minimal CC or several back-to-back blanket Silences. I find myself taking this talent much more often on my Human Priest (since the Human racial allows for a stun escape on a two minute cooldown) than I do on either of my Horde priests.
+
+**Sometimes take -** *Adaption*. This talent works best against teams with infrequent CC, or if your teammates are capable of breaking you out of some enemy crowd control (say a Retribution or Protection Paladin).
+
 #### Row 2
 ![PvP talents row2](img/honor2.png)
 
@@ -46,7 +52,7 @@ TL;DR: This is the default talent loadout.
 
 **Sometimes take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. 
 
-**Never take -** *Trinity*. This is an exceptionally clunky talent and isn't particularly useful, as most of your healing in most arena matches will not come from Atonement but rather direct Penances, Power Word: Radiance, Shadow Mend, and shields.
+**Rarely take -** *Trinity*. This is an exceptionally clunky talent and isn't particularly useful, as most of your healing in most arena matches will not come from Atonement but rather direct Penances, Power Word: Radiance, Shadow Mend, and shields.
 
 #### Row 5
 ![PvP talents row5](img/honor5.png)
@@ -73,31 +79,55 @@ Discipline Priest's main weakness in arena is the clock: simply put, we run out 
 
 Let's take a look at some of the common strong compositions Discipline Priests are running in Legion Season 4:
 
-TODO: Give a quick rundown on how to play each of these.
 
 ### RMP - Rogue / Mage / Priest
 
+This classic composition has been strong since as far back as *The Burning Crusade.* The idea here is to overwhelm the enemy team with as much cross-CC as possible to force defensive cooldowns very early on. In this composition, you will find yourself playing much more aggressively to try to secure a very early kill.
+
 ### Thug Cleave - Sub Rogue / Hunter / Priest
+
+With the recent buffs to Sub Rogue output and the insane amount of cross-CC available between Rogue stun, Hunter traps, your fears and Mind Controls, this composition can be incredibly effective when played well. Make sure you keep your eyes open for when you can follow up a CC chain (typically Fearing after a Hunter trap, or using Mind Control to steer an enemy into a dodged trap) and throw out some damage to help end games quickly.
 
 ### Cupid - Ret Paladin / Hunter / Priest
 
+Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary.
+
 ## Common opponents - 3v3
+
+### WMX - Arms Warrior / Mage / Healer
+
+With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquistion) talent to break out of as many Polymorphs as possible yourself, and lining all other casts behind pillars as much as possible. 
 
 ### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
 
+While slightly less popular this season than WMX, this composition is still quite strong. Typically the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
+
 ### TSG - Arms Warrior / Unholy Death Knight / Healer
 
-### Ebola - Unholy DK / Feral Druid / Healer
+There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
 
-### Shadowplay - Affliction Warlock / Shadow Priest / Healer
+### Walking Dead - Windwalker Monk / Unholy Death Knight / Healer
+
+Playing against this composition is all about knowing when the enemy team is going for a kill. While their default damage can be quite high, you need to save your Pain Suppression for when a teammate gets hit with Touch of Death. Keep in mind because both of these classes are fairly front-loaded, they can swap targets pretty easily. Be mindful of your positioning and be ready to Life Grip back a friendly after they get Death Gripped into a bad situation. 
 
 ## Cooldown Usage
 
-TODO: Mention PW:B over Rogue smoke bombs.
+Many of Discipline's cooldowns have a damage reduction component to them, so it's important to anticipate when damage is about to come out and prepare accordingly. 
 
-TODO: Mention not overlapping PS with other shit.
+*Pain Suppression* - Reduces damage taken by 40% for 8 seconds, and with the new artifact traits, heals back a small portion of that damage taken. It's best to use this ability as heavy damage is starting to come out on a friendly, as it mitigates a huge amount of damage and heals a portion back. Be wary of popping it too early though and forcing a target swap. Keep in mind this is usable while stunned! 
 
-TODO: Mention why Mindbender is awesome.
+*Power Word: Barrier* - Reduces damage taken by 25% for friendlies within it for 10 seconds. This is a really strong cooldown against melee cleaves where your friendly target has two people beating him up and he's stunned or snared in place. Remember that the artifact trait *Barrier for the Devoted* increases healing done by Atonement by 100% for targets within the Barrier, and keep an eye out for opportunities where you can relieve some of the pressure on your team by damaging enemies while healing allies. Also note that you can place Barrier over a friendly target trapped in an enemy Rogue's Smoke Bomb ability and they still recieve the damage reduction.
+
+*Rapture* - Allows you to spam *Power Word: Shield* for a while. This ability is great to use when you're worried about getting spell locked out of a cast, as it's all instants. It's also useful for quickly covering your whole team with both Shields and Atonements. With the honor talent *Strength of Soul*, this ability is amazing at mitigating incoming physical damage while providing decent healing and absorbs to the focused target. 
+
+*Mindbender* - A powerful 1 minute cooldown which does strong damage to an enemy but also heals through Atonement _and_ returns mana. While this is a great spell to use when going for a kill or just applying some counter-pressure and restoring mana, but it's also a way to keep heals flowing to your team while you're sitting in crowd control. If you anticipate an incoming CC chain and are able to Atone your team (say with instant cast Radiance or a combination of Plea and Shield) with Mindbender out, you can totally negate an enemy setup.
+
+*Leap of Faith* - AKA "Life Grip." If your teammate is taking insane damage and you're in no immediate position to top them off (say, you're vulnerable to CC with no trinket up, or the enemy's Silence has just come off cooldown), you can often Life Grip them back to your pillar and have them hide with you for a few seconds while you top them off. This spell can also be used aggressively, such as standing at the other end of a Warlock teleport and pulling your melee towards the fleeing enemy. It's a difficult spell to use effectively but is strongly rewarded by proper positioning and overall arena awareness.
+
+*Archangel (PvP Talent)* - Increases all healing and absorbs by 30% for 15 seconds on a 1 minute cooldown. As mentioned before, this cooldown is insanely powerful and should be used often. 
+
+One big component to succeeding in arena is knowing when to use cooldowns and to also minimize how often you overlap them. For example - if your mage is getting bursted down and you cast *Pain Suppression* on him and he immediately uses his own *Ice Block*, you're now down two defensive cooldowns for the price of one. Having strong communication with your team can help mitigate overlapping damage reductions.
+
 
 ## Macros & Keybinds
 
@@ -107,6 +137,8 @@ Dispel Magic:
 
 ```
 #showtooltip
+/stopcasting
+/stopcasting
 /cast [help] Purify; [harm] Dispel Magic
 /cast [@player] Purify
 ```
@@ -207,3 +239,15 @@ VER 3 0100000000000011 "serenity" "INV_MISC_QUESTIONMARK"
 /cast [@mouseover,exists,help][] Holy Word: Serenity
 END
 ```
+
+## Addons
+
+These days, most of the useful information you'll need to be successful in arena is baked into the default UI. However, there are still a few addons I would recommend for making sure you have all the necessary information quickly available in your interface.
+
+[Gladius](https://mods.curse.com/addons/wow/gladius) - The standard arena unit frame addon. It shows remaining diminishing return timers on your enemies, as well as which Tier 1 PvP talent they have selected, curring spells being cast, and a cooldown tracker. I recommend having this some place prominent in your arena UI, and it's definitely worth spending time tweaking it and practicing reading it at a glance.
+
+[OmniBar](https://mods.curse.com/addons/wow/omnibar) - OmniBar tracks enemy cooldowns and is highly customizable. It's very helpful for knowing when you need to fake cast against an interrupt or knowing when the enemy team's CC chain may start up again.
+
+[GladiatorlosSA](https://mods.curse.com/addons/wow/gladiatorlossa) - A customizable addon that provides voice overs to alert when enemy spells are being cast. This addon can be very annoying at first, but I have it set up purely for spells that I know I can break out of using Premonition such as Polymorph and Hex.
+
+[Details!](https://mods.curse.com/addons/wow/details) - A very informative DPS meter. I use it to track interrupts and incoming CC / CC breaks when discussing how to improve after a match with my team.
