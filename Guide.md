@@ -213,13 +213,14 @@ In arenas, you really don't want to be relying on either mouseover macros or hav
 
 For example, I use this common setup:
 
++------+---------------------+--------------+
 | -    | Target Party        | Target Enemy |
-| ---- |-------------------- | ------------ |
++------+---------------------+--------------+
 | Self | Middle mouse button | x            |
 | 1    | Mouse scroll up     | Alt + 1      |
 | 2    | Mouse scroll down   | Alt + 2      |
 | 3    | x                   | Alt + 3      |
-
++------+---------------------+--------------+
 
 Macros are also a matter of personal preference to some degree - if you have a mouse with many buttons on the side, it may be easier to set up friendly dispel macros for yourself and your two party members, but if not it may just be easier to get comfortable targeting each member and using a standard dispel button. 
 
