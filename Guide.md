@@ -313,7 +313,7 @@ These days, most of the useful information you'll need to be successful in arena
 
 ## Tips & Tricks <a name="tips"></a>
 
-Knowing when to heal via Atonemenet versus direct heals is an artform and requires lots of practice to master. Don't get discouraged! When starting off, err to the side of caution by keeping your teammates topped off with Shields and defensive Penances and Shadow Mends -- fancy damage plays will come once you find your bearings. 
+Knowing when to heal via Atonement versus direct heals is an art form and requires lots of practice to master. Don't get discouraged! When starting off, err to the side of caution by keeping your teammates topped off with Shields and defensive Penances and Shadow Mends -- fancy damage plays will come once you find your bearings. 
 
 At the start of the arena match, try to quickly stack up some Power Word: Shields and Clarity of Will on your teammates to help mitigate the enemy team's opener. Note that Clarity of Will stacks up to two casts worth of absorbs!
 
