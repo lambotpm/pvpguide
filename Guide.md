@@ -35,12 +35,14 @@ Further, while the specific traits on artifact relics aren't active in PvP, the 
 
 | Artifact Rank | +Int in open world | +Int in instanced PvP |
 | ------------- | ------------------ | --------------------- |
-| 52            | +4000              | +1500                 |
-| 53            | +4300              | +1650                 |
-| 54            | +4600              | +1800                 |
-| 55            | +4900              | +1950                 |
+| 52            | +4000              | +1600                 |
+| 53            | +4300              | +1720                 |
+| 54            | +4600              | +1840                 |
+| 55            | +4900              | +1960                 |
 | ...           | ...                | ...                   |
-| 101           | +18700             | +8850                 |
+| 60            | +6400              | +2560                 |
+| ...           | ...                | ...                   |
+| 101           | +18700             | +7480                 |
 
 TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
 
@@ -85,7 +87,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 5
 ![Talent row5](img/talent5.png)
 
-**Always take -** *Clarity of Will*. Clarity of Will allows you to pre-shield targets for huge amounts at the start of an arena match, mitigating much of an enemy team's opening burst. It also is on the Holy spell school, so if you get spell locked while casting Shadow Mend and Penance is on cooldown, you still have a way to meaningfully heal your team. The other two talents have meaningful impact in PvE situations or 2v2 arenas, but aren't well suited for 3v3.
+**Always take -** *Clarity of Will*. Clarity of Will allows you to pre-shield targets for huge amounts at the start of an arena match, mitigating much of an enemy team's opening burst. It also is on the Holy spell school, so if you get spell locked while casting Shadow Mend and Penance is on cooldown, you still have a way to meaningfully heal your team. The other two talents can have an impact in PvE situations or 2v2 arenas, but aren't well suited for 3v3.
 
 #### Row 6
 ![Talent row6](img/talent6.png)
@@ -141,7 +143,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Often take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells.
 
-**Sometimes take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melee have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and Strength of Shield would not offer any help mitigating that damage. 
+**Sometimes take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melee have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. 
 
 **Almost never take -** *Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short. If you find yourself dying in openers to double melee teams, this talent _can_ help give you the breathing room needed to recover, but your teammates should be able to provide enough CC to where this talent is less useful than the alternatives.
 
