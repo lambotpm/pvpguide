@@ -174,7 +174,7 @@ With the recent buffs to Sub Rogue output and the insane amount of cross-CC avai
 
 Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: follow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
 
-## Common Opponents - 3v3 <a name="#opponents"></a>
+## Common Opponents - 3v3 <a name="opponents"></a>
 
 ### WMX - Arms Warrior / Mage / Healer
 
