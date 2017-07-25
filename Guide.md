@@ -23,13 +23,13 @@ This guide aims to provide some high level information on optimal talent builds,
 
 ## Gearing & Artifact <a name="gearing"></a>
 
-As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and pre-determined, i.e. there's no way to influence your template to have more Haste. 
+As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and predetermined, i.e. there's no way to influence your template to have more Haste. 
 
 Using my highest equipped item level, here are the stats I have in the wild versus the stats I have *through the template* in instanced PvP:
 
 ![Stat translation with PvP template](img/stats-infographic.png)
 
-Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
+Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore, it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
 
 Further, while the specific traits on artifact relics aren't active in PvP, the item level bonus and overall traits unlocked _are_ active. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP, but the buff itself still activates and is proportionally strong to the amount of bonus traits unlocked. ([Source](https://twitter.com/WarcraftDevs/status/847920878675386368))
 
@@ -50,7 +50,7 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 ## Talents - 3v3 <a name="talents"></a> 
 
 ### Standard talents <a name="standard-talents"></a>
-[TL;DR: This is the default talent loadout.](http://www.wowhead.com/talent-calc/priest/discipline/cCjM)
+[TL;DR: This is the default talent load out.](http://www.wowhead.com/talent-calc/priest/discipline/cCjM)
 
 #### Row 1
 ![Talent row1](img/talent1.png)
@@ -75,14 +75,14 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Almost always take -** *Psychic Voice*. This talent reduces your AoE fear by 30 seconds, which allows for double the amount of crowd control going out against your enemies.
 
-**Rarely take -** *Shining Force*. The knockback effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off.
+**Rarely take -** *Shining Force*. The knock back effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off.
 
 **Never take -** *Dominant Mind*. It simply does not work in PvP.
 
 #### Row 4
 ![Talent row4](img/talent4.png)
 
-This row not only depends a lot on your comfort level with Priest, but also what composition you're playing and what you're playing against. I go into detail about why I recommend *Mindbender* further down in the cooldown section of this guide, but it's worth mentioning that *Power Word: Solace* is also a good option. *Power Word: Solace* provides the most damage and most mana return out of all of the talent options here in PvP situations, but it requires you to use it virtually on cooldown to not run into mana problems. 
+This row not only depends a lot on your comfort level with Priest, but also what composition you're playing and what you're playing against. I go into detail about why I recommend *Mindbender* further down in the cooldown section of this guide, but it's worth mentioning that *Power Word: Solace* is also a good option. *Power Word: Solace* provides the most damage and most mana return out of all the talent options here in PvP situations, but it requires you to use it virtually on cooldown to not run into mana problems. 
 
 #### Row 5
 ![Talent row5](img/talent5.png)
@@ -102,12 +102,12 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP. There is no reason to consider the other two talents for 3v3 arena.
 
 ### Honor Talents <a name="honor-talents"></a>
-[TL;DR: This is the default talent loadout.](http://www.wowhead.com/honor-calc/priest/discipline/Jmo)
+[TL;DR: This is the default talent load out.](http://www.wowhead.com/honor-calc/priest/discipline/Jmo)
 
 #### Row 1
 ![PvP talents row1](img/honor1.png)
 
-**Usually take -** *Gladiator's Medallion*. This is the trickiest row in all of the talents because the otimal choice depends upon both which race your Priest plays and also what team you're about to be playing against. Typically the best choice is to stay with the on-demand "trinket," allowing you to choose which enemy setups you need to escape for either saving a teammate or setting up a kill by landing a pivotal fear or throwing out some extra damage.
+**Usually take -** *Gladiator's Medallion*. This is the trickiest row in all the talents because the optimal choice depends upon both which race your Priest plays and also what team you're about to be playing against. Typically the best choice is to stay with the on-demand "trinket," allowing you to choose which enemy setups you need to escape for either saving a teammate or setting up a kill by landing a pivotal fear or throwing out some extra damage.
 
 **Sometimes take -** *Relentless*. This can be a great choice against teams with minimal CC or several back-to-back blanket Silences. I find myself taking this talent much more often on my Human Priest (since the Human racial allows for a stun escape on a two minute cooldown) than I do on either of my Horde priests.
 
@@ -118,21 +118,21 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Usually take -** *Vim and Vigor*. Due to Disciplne's tankiness through *Focused Will* and reliance on instant cast spells, Priests are not usually a kill target. Due to this you'll spend most games sitting at high health for the entire duration of the match, allowing for a passive +20% healing. 
 
-**Maybe take -** *Defender of the Weak* or *Inner Renewal*. *Defender of the Weak* is a solid option against teams with a propensity for fast target switching. The haste bonus will allow you to quickly Shadow Mend a teammate back into safe levels of health after they drop very low. In arenas, Discipline's primary weakness is their propensity to burn through mana very quickly, especially if you are actively Purging the enemy team (say, against Resto Druids). *Inner Renewal* has the potenetial to give huge mana savings over the course of a match if you know the enemy team will be focusing you. At low ratings, a lot of double melee teams or triple DPS teams will simply try to burst down a healer - here *Inner Renewal* can really shine. At higher ratings though, you won't often get the most use out of this talent compared to the other two.
+**Maybe take -** *Defender of the Weak* or *Inner Renewal*. *Defender of the Weak* is a solid option against teams with a propensity for fast target switching. The haste bonus will allow you to quickly Shadow Mend a teammate back into safe levels of health after they drop very low. In arenas, Discipline's primary weakness is their propensity to burn through mana very quickly, especially if you are actively Purging the enemy team (say, against Resto Druids). *Inner Renewal* has the potential to give huge mana savings over the course of a match if you know the enemy team will be focusing you. At low ratings, a lot of double melee teams or triple DPS teams will simply try to burst down a healer - here *Inner Renewal* can really shine. At higher ratings though, you won't often get the most use out of this talent compared to the other two.
 
 #### Row 3
 ![PvP talents row3](img/honor3.png)
 
-**Usually take -** *Purification*. This is a standard "double dispel" talent and is great against any team with area of effect dispellable magic (a Mage's Frost Nova) or any team with spammable crowd control (Polymorph, Warlock Fear). A large portion of a healer's responsibilty in arena is limiting enemy crowd control against your team and mitigating their damage - being able to dispel more frequently is key.
+**Usually take -** *Purification*. This is a standard "double dispel" talent and is great against any team with area of effect dispellable magic (a Mage's Frost Nova) or any team with spammable crowd control (Polymorph, Warlock Fear). A large portion of a healer's responsibility in arena is limiting enemy crowd control against your team and mitigating their damage - being able to dispel more frequently is key.
 
-**Maybe take -** *Purified Resolve*. Against teams with infrequent dispellable debuffs, this talent can be preferable to *Purification*. An example would be playing aginst Unholy Death Knights - there's typically rarely a need to defensively dispel, but doing so would somewhat limit incoming damage and apply a shield to help mitigate the single target onslaught.
+**Maybe take -** *Purified Resolve*. Against teams with infrequent dispellable debuffs, this talent can be preferable to *Purification*. An example would be playing against Unholy Death Knights - there's typically rarely a need to defensively dispel, but doing so would somewhat limit incoming damage and apply a shield to help mitigate the single target onslaught.
 
 **Rarely take-** *Spiritual Cleansing*. This talent has a niche depending on what classes you're playing with and what team you're facing. If you're not sure whether this is worth taking, stick with *Purification*. 
 
 #### Row 4
 ![PvP talents row4](img/honor4.png)
 
-**Almost always take -** *Premonition*. This talent is the stand in for the old utility of *Shadow Word: Death* - that is, it applies a small amount of damage to the Priest on a delay, allowing them to break incoming crowd control. You'll always want to take this against classes that contain breakable crowd control, namely a Mage's Polymorph, Hunter traps and Wyvern Sting, Shaman Hex, Monk and Feral Druid Incapicitates, et cetera. There's almost always at least one use for this in a match.
+**Almost always take -** *Premonition*. This talent is the stand in for the old utility of *Shadow Word: Death* - that is, it applies a small amount of damage to the Priest on a delay, allowing them to break incoming crowd control. You'll always want to take this against classes that contain breakable crowd control, namely a Mage's Polymorph, Hunter traps and Wyvern Sting, Shaman Hex, Monk and Feral Druid incapacitates, et cetera. There's almost always at least one use for this in a match. Down further in the guide is a list of CCs that *Premonition* can free you from.
 
 **Sometimes take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. 
 
@@ -143,7 +143,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Often take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells.
 
-**Sometimes take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melee have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. 
+**Sometimes take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melees have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. 
 
 **Almost never take -** *Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short. If you find yourself dying in openers to double melee teams, this talent _can_ help give you the breathing room needed to recover, but your teammates should be able to provide enough CC to where this talent is less useful than the alternatives.
 
@@ -180,11 +180,11 @@ Similar to running Thug Cleave, Cupid works by setting up long chains of crowd c
 
 ### WMX - Arms Warrior / Mage / Healer
 
-With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquistion) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
+With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically, against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquisition) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
 
 ### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
 
-While slightly less popular this season than WMX, this composition is still quite strong. Typically the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
+While slightly less popular this season than WMX, this composition is still quite strong. Typically, the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
 
 ### Dancing with the Stars - Subtlety Rogue / Balance Druid / Healer
 
@@ -205,9 +205,9 @@ Many of Discipline's cooldowns have a damage reduction component to them, so it'
 
 *Pain Suppression* - Reduces damage taken by 40% for 8 seconds, and with the new artifact traits, heals back a small portion of that damage taken. It's best to use this ability as heavy damage is starting to come out on a friendly, as it mitigates a huge amount of damage and heals a portion back. Be wary of popping it too early though and forcing a target swap. Keep in mind this is usable while stunned! 
 
-*Power Word: Barrier* - Reduces damage taken by 25% for friendlies within it for 10 seconds. This is a really strong cooldown against melee cleaves where your friendly target has two people beating him up and he's stunned or snared in place. Remember that the artifact trait *Barrier for the Devoted* increases healing done by Atonement by 100% for targets within the Barrier, and keep an eye out for opportunities where you can relieve some of the pressure on your team by damaging enemies while healing allies. Also note that you can place Barrier over a friendly target trapped in an enemy Rogue's Smoke Bomb ability and they still recieve the damage reduction.
+*Power Word: Barrier* - Reduces damage taken by 25% for friendlies within it for 10 seconds. This is a really strong cooldown against melee cleaves where your friendly target has two people beating him up and he's stunned or snared in place. Remember that the artifact trait *Barrier for the Devoted* increases healing done by Atonement by 100% for targets within the Barrier, and keep an eye out for opportunities where you can relieve some of the pressure on your team by damaging enemies while healing allies. Also, note that you can place Barrier over a friendly target trapped in an enemy Rogue's Smoke Bomb ability and they still recieve the damage reduction.
 
-*Rapture* - Allows you to spam *Power Word: Shield* for a while. This ability is great to use when you're worried about getting spell locked out of a cast, as it's all instants. It's also useful for quickly covering your whole team with both Shields and Atonements. With the honor talent *Strength of Soul*, this ability is amazing at mitigating incoming physical damage while providing decent healing and absorbs to the focused target. 
+*Rapture* - Allows you to spam *Power Word: Shield* for a while. This ability is great to use when you're worried about getting spell locked out of a cast, as it's all instants. It's also useful for quickly covering your whole team with both Shields and Atonement. With the honor talent *Strength of Soul*, this ability is amazing at mitigating incoming physical damage while providing decent healing and absorbs to the focused target. 
 
 *Mindbender* - A powerful 1 minute cooldown which does strong damage to an enemy but also heals through Atonement _and_ returns mana. While this is a great spell to use when going for a kill or just applying some counter-pressure and restoring mana, but it's also a way to keep heals flowing to your team while you're sitting in crowd control. If you anticipate an incoming CC chain and are able to Atone your team (say with instant cast Radiance or a combination of Plea and Shield) with Mindbender out, you can totally negate an enemy setup.
 
@@ -217,14 +217,14 @@ Many of Discipline's cooldowns have a damage reduction component to them, so it'
 
 *Archangel (PvP Talent)* - Increases all healing and absorbs by 30% for 15 seconds on a 1 minute cooldown. As mentioned before, this cooldown is insanely powerful and should be used often. 
 
-One big component to succeeding in arena is knowing when to use cooldowns and to also minimize how often you overlap them. For example - if your mage is getting bursted down and you cast *Pain Suppression* on him and he immediately uses his own *Ice Block*, you're now down two defensive cooldowns for the price of one. Having strong communication with your team can help mitigate overlapping damage reductions.
+One big component to succeeding in arena is knowing when to use cooldowns and to also minimize how often you overlap them. For example - if your Mage is getting bursted down and you cast *Pain Suppression* on him and he immediately uses his own *Ice Block*, you're now down two defensive cooldowns for the price of one. Having strong communication with your team can help mitigate overlapping damage reductions.
 
 
 ## Macros & Keybinds <a name="macros"></a>
 
 Keybindings are a matter of personal preference, but there are a few specific tasks which you should have bound in PvP. 
 
-You'll certainly want to have keybindings for targeting yourself, targeting party1, and targeting party2. These are configurable through the default interface (Esc -> Key Bindings -> Targeting). You'll also want keybindings for targeting arena1, arena2, and arena3 for when you need to Purge a buff or assist in damage.
+You'll certainly want to have keybindings for targeting yourself, targeting party1, and targeting party2. These are configurable through the default interface (`Esc` -> `Key Bindings` -> `Targeting`). You'll also want keybindings for targeting arena1, arena2, and arena3 for when you need to Purge a buff or assist in damage.
 
 In arenas, you really don't want to be relying on either mouseover macros or having to click a unit frame to heal as things are too frantic and mouse movement is too important. The sooner you set those key bindings up and become accustomed to them the easier everything else will become.
 
@@ -313,7 +313,7 @@ These days, most of the useful information you'll need to be successful in arena
 
 ## Tips & Tricks <a name="tips"></a>
 
-Knowing when to heal via Atonemenet versus direct heals is an artform and requires lots of practice to master. Don't get discourged! When starting off, err to the side of caution by keeping your teammates topped off with Shields and defensive Penances and Shadow Mends -- fancy damage plays will come once you find your bearings. 
+Knowing when to heal via Atonemenet versus direct heals is an artform and requires lots of practice to master. Don't get discouraged! When starting off, err to the side of caution by keeping your teammates topped off with Shields and defensive Penances and Shadow Mends -- fancy damage plays will come once you find your bearings. 
 
 At the start of the arena match, try to quickly stack up some Power Word: Shields and Clarity of Will on your teammates to help mitigate the enemy team's opener. Note that Clarity of Will stacks up to two casts worth of absorbs!
 
@@ -338,6 +338,8 @@ Stay on top of Purging buffs from enemy Mages without blowing through too much m
 Retribution Paladins have a talent that causes them to autocast Divine Shield when they are about to die. Have a Mass Dispel ready to fire off when your team is close to securing a kill!
 
 When playing against a Rogue, try to have one of your teammates get into combat as soon as possible. If you heal somebody in combat with a quick Plea, you will get pulled into combat too and thus not be Sappable. (Works great with Hunter pets!)
+
+You can place your *Power Word: Barrier* over an enemy Rogue's Smoke Bomb; friendlies inside will still receive the benefit.
 
 Enemy Priests have loads of Purgable buffs! Be on the look out for Holy Ward, Apotheosis, Power Infusion, and big Clarity of Wills. 
 
