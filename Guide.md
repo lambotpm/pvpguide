@@ -16,7 +16,16 @@ Using my highest equipped item level, here are the stats I have in the wild vers
 
 Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
 
-Further, while the specific traits on artifact relics aren't active in PvP, the item level bonus and overall traits unlocked _are_ active. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP (from 4000 base and +300 per extra point to 1500 base and +150 per extra point), but the buff itself still activates and is proportionally strong to the amount of bonus traits unlocked. ([Source](https://twitter.com/WarcraftDevs/status/847920878675386368))
+Further, while the specific traits on artifact relics aren't active in PvP, the item level bonus and overall traits unlocked _are_ active. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP, but the buff itself still activates and is proportionally strong to the amount of bonus traits unlocked. ([Source](https://twitter.com/WarcraftDevs/status/847920878675386368))
+
+| Artifact Rank | +Int in open world | +Int in instanced PvP |
+| ------------- | ------------------ | --------------------- |
+| 52            | +4000              | +1500                 |
+| 53            | +4300              | +1650                 |
+| 54            | +4600              | +1800                 |
+| 55            | +4900              | +1950                 |
+| ...           | ...                | ...                   |
+| 101           | +18700             | +8850                 |
 
 TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
 
