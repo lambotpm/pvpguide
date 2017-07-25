@@ -286,6 +286,14 @@ Angelic Feather macro for quickly casting it on yourself:
 /stopspelltarget
 ```
 
+Pain Suppression isn't on the global cooldown, meaning you can pair it with Power Word: Shield (if it's available)!
+
+```
+#showtooltip
+/cast Pain Suppression
+/cast Power Word: Shield
+```
+
 
 [For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H)
 
@@ -302,6 +310,10 @@ These days, most of the useful information you'll need to be successful in arena
 [Details!](https://mods.curse.com/addons/wow/details) - A very informative DPS meter. I use it to track interrupts and incoming CC / CC breaks when discussing how to improve after a match with my team.
 
 ## Tips & Tricks <a name="tips"></a>
+
+Knowing when to heal via Atonemenet versus direct heals is an artform and requires lots of practice to master. Don't get discourged! When starting off, err to the side of caution by keeping your teammates topped off with Shields and defensive Penances and Shadow Mends -- fancy damage plays will come once you find your bearings. 
+
+At the start of the arena match, try to quickly stack up some Power Word: Shields and Clarity of Will on your teammates to help mitigate the enemy team's opener. Note that Clarity of Will stacks up to two casts worth of absorbs!
 
 When facing against Restoration or Balance Druids, you can Mass Dispel Cyclones off of your teammates - just be wary of its cooldown!
 
@@ -322,3 +334,10 @@ You can use *Premonition* to get out of most CC abilities classified as Incapaci
 Stay on top of Purging buffs from enemy Mages without blowing through too much mana! You can take their major DPS cooldowns (Combustion, Arcane Power, Icy Veins) and also their survivability cooldowns (Temporal Shield, Prismatic Barrier; Ice Block and Mass Invisibility via Mass Dispel).
 
 Retribution Paladins have a talent that causes them to autocast Divine Shield when they are about to die. Have a Mass Dispel ready to fire off when your team is close to securing a kill!
+
+When playing against a Rogue, try to have one of your teammates get into combat as soon as possible. If you heal somebody in combat with a quick Plea, you will get pulled into combat too and thus not be Sappable. (Works great with Hunter pets!)
+
+Enemy Priests have loads of Purgable buffs! Be on the look out for Holy Ward, Apotheosis, Power Infusion, and big Clarity of Wills. 
+
+If an enemy Priest Mind Controls one of your teammates, you can Purge the effect off of him.
+
