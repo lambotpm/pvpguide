@@ -12,7 +12,7 @@ As of the release of Legion, PvP the stats on your equipment no longer matter in
 
 Using my highest equipped item level, here are the stats I have in the wild versus the stats I have *through the template* in instanced PvP:
 
-![Stat translation with PvP template](img/stats-infographic.jpeg)
+![Stat translation with PvP template](img/stats-infographic.png)
 
 Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
 
