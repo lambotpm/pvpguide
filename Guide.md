@@ -285,6 +285,8 @@ Angelic Feather macro for quickly casting it on yourself:
 /cast [@player] Angelic Feather
 /stopspelltarget
 ```
+
+
 [For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H)
 
 ## Addons <a name="addons"></a>
@@ -301,4 +303,22 @@ These days, most of the useful information you'll need to be successful in arena
 
 ## Tips & Tricks <a name="tips"></a>
 
-Mass dispel cyclones. Yeeeaaah.
+When facing against Restoration or Balance Druids, you can Mass Dispel Cyclones off of your teammates - just be wary of its cooldown!
+
+You can use *Premonition* to get out of most CC abilities classified as Incapacitates, and even some Disorients based on how many Atonements you have active (as *Premonition*'s damage scales with number of Atonements, and some CCs like Warlock Fear have a damage component to them). 
+
+ - Demon Hunter: Imprison (unless talented)
+ - Druid: Feral's Enraged Maim talent, Incapacitating Roar
+ - Hunter: Wyvern Sting, Freezing Trap, Explosive Shot, Scatter Shot
+ - Mage: Polymorph
+ - Monk: Paralysis
+ - Paladin: Repentance, Blinding Light
+ - Priest: Chastise (unless talented)
+ - Pandaren: Quaking Palm racial
+ - Rogue: Gogue, Sap, Blind
+ - Shaman: Hex
+ - Warlock: Fear*, Succubus Seduction
+ 
+Stay on top of Purging buffs from enemy Mages without blowing through too much mana! You can take their major DPS cooldowns (Combustion, Arcane Power, Icy Veins) and also their survivability cooldowns (Temporal Shield, Prismatic Barrier; Ice Block and Mass Invisibility via Mass Dispel).
+
+Retribution Paladins have a talent that causes them to autocast Divine Shield when they are about to die. Have a Mass Dispel ready to fire off when your team is close to securing a kill!
