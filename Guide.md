@@ -1,12 +1,27 @@
 # Discipline Priest PvP Guide - 7.2.5 / Legion Season 4
 
-## Introduction
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Gearing & Artifact](#gearing)
+3. [Talents - 3v3](#talents)
+   1. [Standard Talents](#standard-talents)
+   2. [Honor Talents](#honor-talents)
+4. [Common Compositions - 3v3](#comps)
+5. [Common Opponents - 3v3](#opponents)
+6. [Cooldowns](#cooldowns)
+7. [Macros & Keybinds](#macros)
+8. [Addons](#addons)
+9. [Tips & Tricks](#tips)
+   
+
+## Introduction <a name="introduction"></a>
 
 Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 4, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
 
 This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 4.
 
-## Gearing
+## Gearing & Artifact <a name="gearing"></a>
 
 As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and pre-determined, i.e. there's no way to influence your template to have more Haste. 
 
@@ -30,9 +45,9 @@ Further, while the specific traits on artifact relics aren't active in PvP, the 
 TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
 
 
-## Talents - 3v3
+## Talents - 3v3 <a name="talents"></a> 
 
-### Standard talents
+### Standard talents <a name="standard-talents"></a>
 [TL;DR: This is the default talent loadout.](http://www.wowhead.com/talent-calc/priest/discipline/cCjM)
 
 #### Row 1
@@ -84,7 +99,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP. There is no reason to consider the other two talents for 3v3 arena.
 
-### PvP Standard talents
+### Honor Talents <a name="honor-talents"></a>
 [TL;DR: This is the default talent loadout.](http://www.wowhead.com/honor-calc/priest/discipline/Jmo)
 
 #### Row 1
@@ -140,7 +155,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Never take -** *Power Word: Fortitude*. As of patch 7.2.5, this effect is no longer Purgable, which moves it from being a waste of a GCD into just simply a weak option. An extra 20% health for your team won't help reverse falling into a bad CC chain, nor will it help you recover from an enemy stumbling their way into critting one of your teammates several times during a burst. There's no reason to take this talent over *Archangel*.
 
 
-## Common compositions - 3v3
+## Common Compositions - 3v3 <a name="comps"></a>
 
 Discipline Priest's main weakness in arena is the clock: simply put, we run out of mana faster than every other healer. Because of this, Priest works best in control comps - that is, comps where your team can lock down enemy players repeatedly to help ensure a quick game. The longer a game goes on, the faster a Priest will OOM and the tougher it will be to secure a victory.
 
@@ -159,7 +174,7 @@ With the recent buffs to Sub Rogue output and the insane amount of cross-CC avai
 
 Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: follow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
 
-## Common opponents - 3v3
+## Common Opponents - 3v3 <a name="#opponents"></a>
 
 ### WMX - Arms Warrior / Mage / Healer
 
@@ -182,7 +197,7 @@ Playing against this composition is all about knowing when the enemy team is goi
 There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
 
 
-## Cooldown Usage
+## Cooldowns <a name="cooldowns"></a>
 
 Many of Discipline's cooldowns have a damage reduction component to them, so it's important to anticipate when damage is about to come out and prepare accordingly. 
 
@@ -203,7 +218,7 @@ Many of Discipline's cooldowns have a damage reduction component to them, so it'
 One big component to succeeding in arena is knowing when to use cooldowns and to also minimize how often you overlap them. For example - if your mage is getting bursted down and you cast *Pain Suppression* on him and he immediately uses his own *Ice Block*, you're now down two defensive cooldowns for the price of one. Having strong communication with your team can help mitigate overlapping damage reductions.
 
 
-## Macros & Keybinds
+## Macros & Keybinds <a name="macros"></a>
 
 Keybindings are a matter of personal preference, but there are a few specific tasks which you should have bound in PvP. 
 
@@ -272,7 +287,7 @@ Angelic Feather macro for quickly casting it on yourself:
 ```
 [For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H)
 
-## Addons
+## Addons <a name="addons"></a>
 
 These days, most of the useful information you'll need to be successful in arena is baked into the default UI. However, there are still a few addons I would recommend for making sure you have all the necessary information quickly available in your interface.
 
@@ -283,3 +298,7 @@ These days, most of the useful information you'll need to be successful in arena
 [GladiatorlosSA](https://mods.curse.com/addons/wow/gladiatorlossa) - A customizable addon that provides voice overs to alert when enemy spells are being cast. This addon can be very annoying at first, but I have it set up purely for spells that I know I can break out of using Premonition such as Polymorph and Hex.
 
 [Details!](https://mods.curse.com/addons/wow/details) - A very informative DPS meter. I use it to track interrupts and incoming CC / CC breaks when discussing how to improve after a match with my team.
+
+## Tips & Tricks <a name="tips"></a>
+
+Mass dispel cyclones. Yeeeaaah.
