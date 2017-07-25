@@ -331,7 +331,7 @@ You can use *Premonition* to get out of most CC abilities classified as Incapaci
  - Pandaren: Quaking Palm racial
  - Rogue: Gogue, Sap, Blind
  - Shaman: Hex
- - Warlock: Fear*, Succubus Seduction
+ - Warlock: Fear, Succubus Seduction
  
 Stay on top of Purging buffs from enemy Mages without blowing through too much mana! You can take their major DPS cooldowns (Combustion, Arcane Power, Icy Veins) and also their survivability cooldowns (Temporal Shield, Prismatic Barrier; Ice Block and Mass Invisibility via Mass Dispel).
 
