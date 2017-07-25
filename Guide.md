@@ -124,11 +124,11 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 5
 ![PvP talents row5](img/honor5.png)
 
-**Almost always take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells.
+**Often take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells.
 
 **Sometimes take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melee have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and Strength of Shield would not offer any help mitigating that damage. 
 
-**Never take -** *Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short.
+**Almost never take -** *Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short. If you find yourself dying in openers to double melee teams, this talent _can_ help give you the breathing room needed to recover, but your teammates should be able to provide enough CC to where this talent is less useful than the alternatives.
 
 #### Row 6
 ![PvP talents row6](img/honor6.png)
@@ -157,25 +157,30 @@ With the recent buffs to Sub Rogue output and the insane amount of cross-CC avai
 
 ### Cupid - Ret Paladin / Hunter / Priest
 
-Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: folow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
+Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: follow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
 
 ## Common opponents - 3v3
 
 ### WMX - Arms Warrior / Mage / Healer
 
-With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquistion) talent to break out of as many Polymorphs as possible yourself, and lining all other casts behind pillars as much as possible. 
+With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquistion) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
 
 ### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
 
 While slightly less popular this season than WMX, this composition is still quite strong. Typically the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
 
-### TSG - Arms Warrior / Unholy Death Knight / Healer
+### Dancing with the Stars - Subtlety Rogue / Balance Druid / Healer
 
-There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
+hmmmm boomies getting nerfed today. 
 
 ### Walking Dead - Windwalker Monk / Unholy Death Knight / Healer
 
 Playing against this composition is all about knowing when the enemy team is going for a kill. While their default damage can be quite high, you need to save your Pain Suppression for when a teammate gets hit with Touch of Death. Keep in mind because both of these classes are fairly front-loaded, they can swap targets pretty easily. Be mindful of your positioning and be ready to Life Grip back a friendly after they get Death Gripped into a bad situation. 
+
+### TSG - Arms Warrior / Unholy Death Knight / Healer
+
+There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
+
 
 ## Cooldown Usage
 
@@ -191,6 +196,8 @@ Many of Discipline's cooldowns have a damage reduction component to them, so it'
 
 *Leap of Faith* - AKA "Life Grip." If your teammate is taking insane damage and you're in no immediate position to top them off (say, you're vulnerable to CC with no trinket up, or the enemy's Silence has just come off cooldown), you can often Life Grip them back to your pillar and have them hide with you for a few seconds while you top them off. This spell can also be used aggressively, such as standing at the other end of a Warlock teleport and pulling your melee towards the fleeing enemy. It's a difficult spell to use effectively but is strongly rewarded by proper positioning and overall arena awareness.
 
+*Fade* - With the artifact trait *Vestments of Discipline* unlocked, *Fade* grants you a personal 13% damage reduction for 6 seconds on a 30 second cooldown. Be sure to use this whenever you're a target of damage before blowing bigger cooldowns.
+
 *Archangel (PvP Talent)* - Increases all healing and absorbs by 30% for 15 seconds on a 1 minute cooldown. As mentioned before, this cooldown is insanely powerful and should be used often. 
 
 One big component to succeeding in arena is knowing when to use cooldowns and to also minimize how often you overlap them. For example - if your mage is getting bursted down and you cast *Pain Suppression* on him and he immediately uses his own *Ice Block*, you're now down two defensive cooldowns for the price of one. Having strong communication with your team can help mitigate overlapping damage reductions.
@@ -203,6 +210,16 @@ Keybindings are a matter of personal preference, but there are a few specific ta
 You'll certainly want to have keybindings for targeting yourself, targeting party1, and targeting party2. These are configurable through the default interface (Esc -> Key Bindings -> Targeting). You'll also want keybindings for targeting arena1, arena2, and arena3 for when you need to Purge a buff or assist in damage.
 
 In arenas, you really don't want to be relying on either mouseover macros or having to click a unit frame to heal as things are too frantic and mouse movement is too important. The sooner you set those key bindings up and become accustomed to them the easier everything else will become.
+
+For example, I use this common setup:
+
+| -    | Target Party        | Target Enemy |
+| ---- |-------------------- | ------------ |
+| Self | Middle mouse button | x            |
+| 1    | Mouse scroll up     | Alt + 1      |
+| 2    | Mouse scroll down   | Alt + 2      |
+| 3    | x                   | Alt + 3      |
+
 
 Macros are also a matter of personal preference to some degree - if you have a mouse with many buttons on the side, it may be easier to set up friendly dispel macros for yourself and your two party members, but if not it may just be easier to get comfortable targeting each member and using a standard dispel button. 
 
