@@ -14,6 +14,8 @@
 7. [Macros & Keybinds](#macros)
 8. [Addons](#addons)
 9. [Tips & Tricks](#tips)
+10. [Twitch Streams](#streams)
+11. [Closing Note](#closing)
    
 
 ## Introduction <a name="introduction"></a>
@@ -348,3 +350,11 @@ Enemy Priests have loads of Purgable buffs! Be on the look out for Holy Ward, Ap
 
 If an enemy Priest Mind Controls one of your teammates, you can Purge the effect off of him.
 
+
+## Twitch Streams <a name="#streams"></a>
+
+c/p a list of streamers
+
+## Closing Note <a name="#closing"></a>
+
+minor note about healing in the current pvp meta
