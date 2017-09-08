@@ -1,8 +1,9 @@
-# Discipline Priest PvP Guide - 7.2.5 / Legion Season 4
+# Discipline Priest PvP Guide - 7.3 / Legion Season 5
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
+2. [Glossary](#glossary)
 2. [Gearing & Artifact](#gearing)
 3. [Talents - 3v3](#talents)
    1. [Standard Talents](#standard-talents)
@@ -17,9 +18,11 @@
 
 ## Introduction <a name="introduction"></a>
 
-Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 4, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
+Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 5, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
 
-This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 4.
+This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 5.
+
+## Glossary <a name="glossary"></a>
 
 ## Gearing & Artifact <a name="gearing"></a>
 
@@ -161,7 +164,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 Discipline Priest's main weakness in arena is the clock: simply put, we run out of mana faster than every other healer. Because of this, Priest works best in control comps - that is, comps where your team can lock down enemy players repeatedly to help ensure a quick game. The longer a game goes on, the faster a Priest will OOM and the tougher it will be to secure a victory.
 
-Let's take a look at some of the common strong compositions Discipline Priests are running in Legion Season 4:
+Let's take a look at some of the common strong compositions Discipline Priests are running in Legion Season 5:
 
 
 ### RMP - Rogue / Mage / Priest
