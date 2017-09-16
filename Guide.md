@@ -26,6 +26,16 @@ This guide aims to provide some high level information on optimal talent builds,
 
 ## Glossary <a name="glossary"></a>
 
+Before we jump in, let's define a few terms that you'll see throughout this guide and when interacting with the PvP community:
+
+- *Purge* - Refers to offensively dispelling a target, namely *Dispel Magic* as a Priest. The term *Purge* is usually used to minimize ambiguity between dispel effects. Note that Mass Dispel also has a Purging effect if enemies are within its reticle. 
+
+- *Dispel* - Refers to defensively dispelling a target, namely *Purify*. 
+
+- *CC* - Short for crowd control, this term includes any spells that prevent an enemy player from interacting for a shrort time, such as *Psychic Scream* or *Mind Control*. *CC Chains* are when multiple CC spells are used in a row on a target, preventing them from playing for even longer. 
+
+- *Comps* - Short for team compositions. An example of a comp is "RMP" - or Rogue/Mage/Priest. Some common comps for Discipline Priests are listed further down in the guide, along with tips on how to play them.
+
 ## Gearing & Artifact <a name="gearing"></a>
 
 As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and predetermined, i.e. there's no way to influence your template to have more Haste. 
@@ -60,9 +70,9 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 #### Row 1
 ![Talent row1](img/talent1.png)
 
-**Usually take -** *Castigation*. Castigation gives a straight 33% buff to our biggest damaging and healing spell, and - like most things Discipline - is great for both damaging and healing. While playing as a team with lots of control or playing against a team that has lots of spread pressure, *Castigation* can offer the most bang for your buck by allowing your team to stay offensive while providing strong healing through Atonement or direct healing (now that *The Penitent* is baseline) in emergency situations.
+**Usually take -** *Twist of Fate*. Twist of Fate is still an incredibly strong talent for recovering from dangerous situations. It's a great choice when you're facing against a team that has a lot of crowd control for allowing you to recover quickly, or for when an enemy team is likely to tunnel and try to burst you down. When unsure of which talent to take here, defaulting to *Twist of Fate* is always a fine option.
 
-**Sometimes take -** *Twist of Fate*. Twist of Fate is still an incredibly strong talent for recovering from dangerous situations. It's a strong choice when you're facing against a team that has a lot of crowd control for allowing you to recover quickly, or for when an enemy team is likely to tunnel and try to burst you down.
+**Sometimes take -** *Castigation*. Castigation gives a straight 33% buff to our biggest damaging and healing spell, and - like most things Discipline - is great for both damaging and healing. While playing as a team with lots of control or playing against a team that has lots of spread pressure, *Castigation* can offer the most bang for your buck by allowing your team to stay offensive while providing strong healing through Atonement or direct healing (now that *The Penitent* is baseline) in emergency situations. It's particularly strong when playing with comps that try to close out a game quickly, such as RMP or Cupid.
 
 **Almost never take -** *Schism*. While Schism can provide a substantial buff to your damage output, it's a clunky spell to use and very expensive on mana. It also gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency.
 
@@ -71,9 +81,9 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Usually take -** *Angelic Feather*. Priest is a very immobile class this expansion. Feathers can help you quickly cross enemy lines to drop a Fear or pull back to safety behind a pillar.
 
-**Rarely take -** *Body and Soul*. While not an awful talent, Power Word: Shields should be spent on mitigating incoming damage on your team, not providing speed buffs. The one upside to this talent is that it requires almost no management and also provides another dispellable buff on your allies, forcing enemies to purge more often to get off important spells.
+**Sometimes take -** *Body and Soul*. While not an awful talent, Power Word: Shields should be spent on mitigating incoming damage on your team, not providing speed buffs. The one upside to this talent is that it requires almost no management and also provides another dispellable buff on your allies, forcing enemies to purge more often to get off important spells. Against very Purge-heavy players (aggressive Shamans, Priests, even Mages), the extra buff to churn through can be a lifesaver.
 
-**Rarely take -** *Masochism*. If you think you're going to be focused by a melee team, Masochism can help keep you alive by providing more damage reduction. Since Discipline Priests are pretty tanky, you won't often find teams trying to focus you down above a certain rating.
+**Rarely take -** *Masochism*. If you think you're going to be focused by a melee team, Masochism can help keep you alive by providing more damage reduction. While Discipline Priests are reasonably tanky for a healer, there is some insane damage coming out in arena right now from melee cleaves -- if you find that you're having trouble staying alive, this talent can definitely help.
 
 #### Row 3
 ![Talent row3](img/talent3.png)
@@ -121,9 +131,11 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 2
 ![PvP talents row2](img/honor2.png)
 
-**Usually take -** *Vim and Vigor*. Due to Disciplne's tankiness through *Focused Will* and reliance on instant cast spells, Priests are not usually a kill target. Due to this you'll spend most games sitting at high health for the entire duration of the match, allowing for a passive +20% healing. 
+**Usually take -** *Vim and Vigor*. Due to Discipline's relative tankiness through *Focused Will* and reliance on instant cast spells, Priests are not usually a kill target. Due to this you'll spend most games sitting at high health for the entire duration of the match, allowing for a passive +20% healing.
 
-**Maybe take -** *Defender of the Weak* or *Inner Renewal*. *Defender of the Weak* is a solid option against teams with a propensity for fast target switching. The haste bonus will allow you to quickly Shadow Mend a teammate back into safe levels of health after they drop very low. In arenas, Discipline's primary weakness is their propensity to burn through mana very quickly, especially if you are actively Purging the enemy team (say, against Resto Druids). *Inner Renewal* has the potential to give huge mana savings over the course of a match if you know the enemy team will be focusing you. At low ratings, a lot of double melee teams or triple DPS teams will simply try to burst down a healer - here *Inner Renewal* can really shine. At higher ratings though, you won't often get the most use out of this talent compared to the other two.
+**Maybe take -** *Defender of the Weak* or *Inner Renewal*. *Defender of the Weak* is a solid option against teams with a propensity for fast target switching. The haste bonus will allow you to quickly Shadow Mend a teammate back into safe levels of health after they drop very low. Keep in mind this effect stacks with the *Twist of Fate* talent, allowing for some very quick recovery healing. 
+
+In arenas, Discipline's primary weakness is their propensity to burn through mana very quickly, especially if you are actively Purging the enemy team (say, against Resto Druids). *Inner Renewal* has the potential to give huge mana savings over the course of a match if you know the enemy team will be focusing you. At low ratings, a lot of double melee teams or triple DPS teams will simply try to burst down a healer - here *Inner Renewal* can really shine. At higher ratings though, you won't often get the most use out of this talent compared to the other two.
 
 #### Row 3
 ![PvP talents row3](img/honor3.png)
@@ -146,9 +158,9 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 5
 ![PvP talents row5](img/honor5.png)
 
-**Often take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells.
+**Often take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melees have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. That said, this talent becomes borderline overpowered during *Rapture*. 
 
-**Sometimes take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melees have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. 
+**Sometimes take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells. Against caster cleave teams, this is the go-to option. 
 
 **Almost never take -** *Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short. If you find yourself dying in openers to double melee teams, this talent _can_ help give you the breathing room needed to recover, but your teammates should be able to provide enough CC to where this talent is less useful than the alternatives.
 
@@ -157,7 +169,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Almost always take -** *Archangel*. This talent is the *Velen's Future Sight* of PvP. It's single handedly one of the strongest healing buffs any healer has in PvP, and only on a one minute cooldown. It's recommended that you grind to honor level 28 as soon as possible to unlock this talent.
 
-**Rarely take -** *Dark Archangel*. This is a fun talent to help your team instagib an enemy, but if you aren't able to secure a kill reliably in the opener, you will quickly fall behind by not having *Archangel.* This is mostly fun at low ratings with mongo comps, but should not be considered in the vast majority of real arena matches.
+**Rarely take -** *Dark Archangel*. This is a fun talent to help your team instagib an enemy, but if you aren't able to secure a kill reliably in the opener, you will quickly fall behind by not having *Archangel.* 
 
 **Never take -** *Power Word: Fortitude*. As of patch 7.2.5, this effect is no longer Purgable, which moves it from being a waste of a GCD into just simply a weak option. An extra 20% health for your team won't help reverse falling into a bad CC chain, nor will it help you recover from an enemy stumbling their way into critting one of your teammates several times during a burst. There's no reason to take this talent over *Archangel*.
 
@@ -173,6 +185,8 @@ Let's take a look at some of the common strong compositions Discipline Priests a
 
 This classic composition has been strong since as far back as *The Burning Crusade.* The idea here is to overwhelm the enemy team with as much cross-CC as possible to force defensive cooldowns very early on. In this composition, you will find yourself playing much more aggressively to try to secure a very early kill. Look for openings when you can follow up a Polymorph or Kidney Shot with a fear while your teammates lock everybody else in place.
 
+Xaryu has a [fantastic video](https://www.youtube.com/watch?v=zNsxAGx-Ic4) about how to play RMP effectively. 
+
 ### Thug Cleave - Sub Rogue / Hunter / Priest
 
 With the recent buffs to Sub Rogue output and the insane amount of cross-CC available between Rogue stun, Hunter traps, your fears and Mind Controls, this composition can be incredibly effective when played well. Make sure you keep your eyes open for when you can follow up a CC chain (typically Fearing after a Hunter trap, or using Mind Control to steer an enemy into a dodged trap) and throw out some damage to help end games quickly.
@@ -181,27 +195,29 @@ With the recent buffs to Sub Rogue output and the insane amount of cross-CC avai
 
 Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: follow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
 
+There was some really strong Cupid games in the most recent [North American Arena Championship that I highly recommend watching.](https://www.twitch.tv/videos/173273499?t=03h57m01s)
+
+### Jungle - Feral Druid / Hunter / Priest
+
+This comp works very similarly to the previous two, Thug and Cupid. Since Ferals recieved a ridiculous damage and quality of life buff in 7.3 / Season 5, they're quite powerful allies to have. CC chains work similarly as before, where your Feral will Maim or Mighty Bash a target, Hunter traps off of the stun/incap, and you follow with a Psychic Scream out. If an enemy healer has to sit that whole chain (say, they don't have trinket available), your Druid with Incarn can easily shred the enemy team apart. Overall this is a really fun composition to play right now and can be quite strong.
+
 ## Common Opponents - 3v3 <a name="opponents"></a>
 
-### WMX - Arms Warrior / Mage / Healer
+### TSG - Arms Warrior / Unholy Death Knight / Healer
 
-With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically, against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquisition) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
-
-### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
-
-While slightly less popular this season than WMX, this composition is still quite strong. Typically, the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
-
-### Dancing with the Stars - Subtlety Rogue / Balance Druid / Healer
-
-hmmmm boomies getting nerfed today. 
+There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
 
 ### Walking Dead - Windwalker Monk / Unholy Death Knight / Healer
 
 Playing against this composition is all about knowing when the enemy team is going for a kill. While their default damage can be quite high, you need to save your Pain Suppression for when a teammate gets hit with Touch of Death. Keep in mind because both of these classes are fairly front-loaded, they can swap targets pretty easily. Be mindful of your positioning and be ready to Life Grip back a friendly after they get Death Gripped into a bad situation. 
 
-### TSG - Arms Warrior / Unholy Death Knight / Healer
+### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
 
-There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
+While slightly less popular this season than WMX, this composition is still quite strong. Typically, the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
+
+### WMX - Arms Warrior / Mage / Healer
+
+With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically, against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquisition) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
 
 
 ## Cooldowns <a name="cooldowns"></a>
@@ -311,6 +327,8 @@ These days, most of the useful information you'll need to be successful in arena
 [Gladius](https://mods.curse.com/addons/wow/gladius) - The standard arena unit frame addon. It shows remaining diminishing return timers on your enemies, as well as which Tier 1 PvP talent they have selected, curring spells being cast, and a cooldown tracker. I recommend having this some place prominent in your arena UI, and it's definitely worth spending time tweaking it and practicing reading it at a glance.
 
 [OmniBar](https://mods.curse.com/addons/wow/omnibar) - OmniBar tracks enemy cooldowns and is highly customizable. It's very helpful for knowing when you need to fake cast against an interrupt or knowing when the enemy team's CC chain may start up again.
+
+[SortGroup](https://mods.curse.com/addons/wow/sortgroup) - Allows you to determine the order of party frames, so that you're always at the top (or bottom) of your party. This is helpful when arenaing because the order in which the group is assembled is based on who loads in to the arena first, meaning you will likely have a different party layout each match. This addon helps manage that minor headache. 
 
 [GladiatorlosSA](https://mods.curse.com/addons/wow/gladiatorlossa) - A customizable addon that provides voice overs to alert when enemy spells are being cast. This addon can be very annoying at first, but I have it set up purely for spells that I know I can break out of using Premonition such as Polymorph and Hex.
 
