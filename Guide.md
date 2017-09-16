@@ -356,7 +356,7 @@ You can use *Premonition* to get out of most CC abilities classified as Incapaci
 
  - Demon Hunter: Imprison (unless talented)
  - Druid: Feral's Enraged Maim talent, Incapacitating Roar
- - Hunter: Wyvern Sting, Freezing Trap, Explosive Shot, Scatter Shot
+ - Hunter: Wyvern Sting, Freezing Trap, Bursting Shot, Scatter Shot
  - Mage: Polymorph
  - Monk: Paralysis
  - Paladin: Repentance, Blinding Light
@@ -373,6 +373,8 @@ Stay on top of Purging buffs from enemy Mages without blowing through too much m
 Retribution Paladins have a talent that causes them to autocast Divine Shield when they are about to die. Have a Mass Dispel ready to fire off when your team is close to securing a kill!
 
 When playing against a Rogue, try to have one of your teammates get into combat as soon as possible. If you heal somebody in combat with a quick Plea, you will get pulled into combat too and thus not be Sappable. (Works great with Hunter pets!)
+
+You can use *Shackle Undead* against a Death Knight's pets to temporarily remove them from the match. This is particularly strong against their Summon Gargoyle 3 minute DPS cooldown.
 
 You can place your *Power Word: Barrier* over an enemy Rogue's Smoke Bomb; friendlies inside will still receive the benefit.
 
