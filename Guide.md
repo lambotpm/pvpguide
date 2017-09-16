@@ -205,11 +205,11 @@ This comp works very similarly to the previous two, Thug and Cupid. Since Ferals
 
 ## Common Opponents - 3v3 <a name="opponents"></a>
 
-### TSG - Arms Warrior / Unholy Death Knight / Healer
+### TSG - Arms Warrior / Death Knight / Healer
 
 There are many variations on this composition now after the recent buffs to several melee classes (Arms and Havoc come to mind immediately), but the way you play against it is largely the same. This team tries to just overwhelm with insane damage and healing reductions to simply power through a target. Use your defensive cooldowns early (Barrier, Pain Suppression, Archangel) to keep your friendly target alive without too much overlap and try to help minimize incoming damage by CC'ing during their burst. 
 
-### Walking Dead - Windwalker Monk / Unholy Death Knight / Healer
+### Walking Dead - Windwalker Monk / Death Knight / Healer
 
 Playing against this composition is all about knowing when the enemy team is going for a kill. While their default damage can be quite high, you need to save your Pain Suppression for when a teammate gets hit with Touch of Death. Keep in mind because both of these classes are fairly front-loaded, they can swap targets pretty easily. Be mindful of your positioning and be ready to Life Grip back a friendly after they get Death Gripped into a bad situation. 
 
