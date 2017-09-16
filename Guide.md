@@ -15,7 +15,6 @@
 8. [Addons](#addons)
 9. [Tips & Tricks](#tips)
 10. [Twitch Streams](#streams)
-11. [Closing Note](#closing)
    
 
 ## Introduction <a name="introduction"></a>
@@ -151,9 +150,10 @@ In arenas, Discipline's primary weakness is their propensity to burn through man
 
 **Almost always take -** *Premonition*. This talent is the stand in for the old utility of *Shadow Word: Death* - that is, it applies a small amount of damage to the Priest on a delay, allowing them to break incoming crowd control. You'll always want to take this against classes that contain breakable crowd control, namely a Mage's Polymorph, Hunter traps and Wyvern Sting, Shaman Hex, Monk and Feral Druid incapacitates, et cetera. There's almost always at least one use for this in a match. Down further in the guide is a list of CCs that *Premonition* can free you from.
 
-**Sometimes take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. 
+**Sometimes take -** *Trinity*. This is an exceptionally clunky talent to get used to, but can provide quite a bit of healing through damage if there's no CC to break out of via *Premontiion*. 
 
-**Rarely take -** *Trinity*. This is an exceptionally clunky talent and isn't particularly useful, as most of your healing in most arena matches will not come from Atonement but rather direct Penances, Power Word: Radiance, Shadow Mend, and shields.
+**Rarely take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. Due to the amount of damage that goes out in 3v3 now, Smite is not a very common spell; this talent has a much better place in the 2v2 bracket in Season 5.
+
 
 #### Row 5
 ![PvP talents row5](img/honor5.png)
@@ -226,7 +226,7 @@ Many of Discipline's cooldowns have a damage reduction component to them, so it'
 
 *Pain Suppression* - Reduces damage taken by 40% for 8 seconds, and with the new artifact traits, heals back a small portion of that damage taken. It's best to use this ability as heavy damage is starting to come out on a friendly, as it mitigates a huge amount of damage and heals a portion back. Be wary of popping it too early though and forcing a target swap. Keep in mind this is usable while stunned! 
 
-*Power Word: Barrier* - Reduces damage taken by 25% for friendlies within it for 10 seconds. This is a really strong cooldown against melee cleaves where your friendly target has two people beating him up and he's stunned or snared in place. Remember that the artifact trait *Barrier for the Devoted* increases healing done by Atonement by 100% for targets within the Barrier, and keep an eye out for opportunities where you can relieve some of the pressure on your team by damaging enemies while healing allies. Also, note that you can place Barrier over a friendly target trapped in an enemy Rogue's Smoke Bomb ability and they still recieve the damage reduction.
+*Power Word: Barrier* - Reduces damage taken by 25% for friendlies within it for 10 seconds. This is a really strong cooldown against melee cleaves where your friendly target has two people beating him up and he's stunned or snared in place. Remember that the artifact trait *Barrier for the Devoted* increases healing done by Atonement by 100% for targets within the Barrier, and keep an eye out for opportunities where you can relieve some of the pressure on your team by damaging enemies while healing allies. Also, note that you can place Barrier over a friendly target trapped in an enemy Rogue's Smoke Bomb ability and they still receive the damage reduction.
 
 *Rapture* - Allows you to spam *Power Word: Shield* for a while. This ability is great to use when you're worried about getting spell locked out of a cast, as it's all instants. It's also useful for quickly covering your whole team with both Shields and Atonement. With the honor talent *Strength of Soul*, this ability is amazing at mitigating incoming physical damage while providing decent healing and absorbs to the focused target. 
 
@@ -371,8 +371,14 @@ If an enemy Priest Mind Controls one of your teammates, you can Purge the effect
 
 ## Twitch Streams <a name="#streams"></a>
 
-c/p a list of streamers
+By popular request, the following are a list of high ranked Disc streamers in no particular order. Not all of the users are super active, but most have VoDs worth watching if you're looking for some arena PoV content. 
 
-## Closing Note <a name="#closing"></a>
+- [Hydramist](https://www.twitch.tv/hydramist)
+- [Gorecki](https://www.twitch.tv/goreckitv)
+- [Krawnzlol](https://www.twitch.tv/krawnzlol)
+- [Gekz](https://www.twitch.tv/gekz)
+- [CDew](https://www.twitch.tv/cdewx)
+- [Oxygen](https://www.twitch.tv/mswagrs)
+- [Mehhx](https://www.twitch.tv/mehhx)
+- [Solace](https://www.twitch.tv/solacextv)
 
-minor note about healing in the current pvp meta
