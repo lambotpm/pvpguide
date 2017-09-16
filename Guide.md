@@ -58,6 +58,8 @@ Further, while the specific traits on artifact relics aren't active in PvP, the 
 | ...           | ...                | ...                   |
 | 101           | +18700             | +7480                 |
 
+Regarding the new Netherlight Crucible added in 7.3, none of the new bonus traits are active in instanced PvP (the tier 2 and tier 3 relic upgrdes). However, the +15 item level you gain to your weapon *is* active and does contribute to your stat template! Note that the Netherlight Crucible unlock is account-wide, so once you do the Argus quest chain once, you can get the free +15 item levels on any character.
+
 TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
 
 
@@ -340,7 +342,7 @@ Knowing when to heal via Atonement versus direct heals is an art form and requir
 
 At the start of the arena match, try to quickly stack up some Power Word: Shields and Clarity of Will on your teammates to help mitigate the enemy team's opener. Note that Clarity of Will stacks up to two casts worth of absorbs!
 
-When facing against Restoration or Balance Druids, you can Mass Dispel Cyclones off of your teammates - just be wary of its cooldown!
+When facing against Restoration or Balance Druids, you can Mass Dispel Cyclones off of your teammates - just be wary of its cooldown and mana cost.
 
 You can use *Premonition* to get out of most CC abilities classified as Incapacitates, and even some Disorients based on how many Atonements you have active (as *Premonition*'s damage scales with number of Atonements, and some CCs like Warlock Fear have a damage component to them). 
 
@@ -355,7 +357,9 @@ You can use *Premonition* to get out of most CC abilities classified as Incapaci
  - Rogue: Gogue, Sap, Blind
  - Shaman: Hex
  - Warlock: Fear, Succubus Seduction
- 
+
+Premonition can also be used as a free of mana cost heal on allies with Atonments/apply atonement to yourself, be very vary of using it though (mainly use in 2v2s).
+
 Stay on top of Purging buffs from enemy Mages without blowing through too much mana! You can take their major DPS cooldowns (Combustion, Arcane Power, Icy Veins) and also their survivability cooldowns (Temporal Shield, Prismatic Barrier; Ice Block and Mass Invisibility via Mass Dispel).
 
 Retribution Paladins have a talent that causes them to autocast Divine Shield when they are about to die. Have a Mass Dispel ready to fire off when your team is close to securing a kill!
@@ -364,7 +368,7 @@ When playing against a Rogue, try to have one of your teammates get into combat 
 
 You can place your *Power Word: Barrier* over an enemy Rogue's Smoke Bomb; friendlies inside will still receive the benefit.
 
-Enemy Priests have loads of Purgable buffs! Be on the look out for Holy Ward, Apotheosis, Power Infusion, and big Clarity of Wills. 
+Enemy Priests have loads of Purgable buffs! Be on the look out for Holy Ward, Divinity, Power Infusion, and big Clarity of Wills. 
 
 If an enemy Priest Mind Controls one of your teammates, you can Purge the effect off of him.
 
