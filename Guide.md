@@ -213,6 +213,10 @@ There are many variations on this composition now after the recent buffs to seve
 
 Playing against this composition is all about knowing when the enemy team is going for a kill. While their default damage can be quite high, you need to save your Pain Suppression for when a teammate gets hit with Touch of Death. Keep in mind because both of these classes are fairly front-loaded, they can swap targets pretty easily. Be mindful of your positioning and be ready to Life Grip back a friendly after they get Death Gripped into a bad situation. 
 
+### Shadowplay - Shadow Priest / Warlock / Healer (Restoration Shaman)
+
+This composition is very strong this season, and usually ran with a Destruction Warlock, making them super deadly. Try to minimize the amount of Shadow Priest dots out at any given time on your team by being aggressive with dispels, or if your team is clumped up line of sighting some Chaos Bolts, you can Mass Dispel on your team to remove them all at once. 
+
 ### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
 
 While slightly less popular this season than WMX, this composition is still quite strong. Typically, the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
@@ -220,6 +224,10 @@ While slightly less popular this season than WMX, this composition is still quit
 ### WMX - Arms Warrior / Mage / Healer
 
 With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically, against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquisition) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
+
+### Any double melee team with a Demon Hunter
+
+Demon Hunters are particularly scary during their Metamorphosis cooldown. Try to minimize the damage coming out by either Mind Controlling the DH during his burst, or using Rapture with the Strength of Soul talent.
 
 
 ## Cooldowns <a name="cooldowns"></a>
