@@ -66,7 +66,7 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 ## Talents - 3v3 <a name="talents"></a> 
 
 ### Standard talents <a name="standard-talents"></a>
-[TL;DR: This is the default talent load out.](http://www.wowhead.com/talent-calc/priest/discipline/cCjM)
+[TL;DR: This is the default talent load out.](http://www.wowhead.com/talent-calc/priest/discipline/cBjM)
 
 #### Row 1
 ![Talent row1](img/talent1.png)
@@ -118,7 +118,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP. There is no reason to consider the other two talents for 3v3 arena.
 
 ### Honor Talents <a name="honor-talents"></a>
-[TL;DR: This is the default talent load out.](http://www.wowhead.com/honor-calc/priest/discipline/Jmo)
+[TL;DR: This is the default talent load out.](http://www.wowhead.com/honor-calc/priest/discipline/JmY)
 
 #### Row 1
 ![PvP talents row1](img/honor1.png)
