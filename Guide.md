@@ -91,7 +91,7 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Almost always take -** *Psychic Voice*. This talent reduces your AoE fear by 30 seconds, which allows for double the amount of crowd control going out against your enemies.
 
-**Rarely take -** *Shining Force*. The knock back effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off.
+**Sometimes take -** *Shining Force*. The knock back effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off. This talent can also be helpful against melee cleaves trying to train you down, as it will give you a few seconds of breathing room to get out a Shadow Mend on yourself.
 
 **Never take -** *Dominant Mind*. It simply does not work in PvP.
 
