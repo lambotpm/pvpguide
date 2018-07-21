@@ -1,4 +1,4 @@
-# Discipline Priest PvP Guide - 7.3 / Legion Season 5
+# Discipline Priest PvP Guide - 7.3 / Legion Season 7
 
 ## Table of Contents
 
@@ -19,9 +19,9 @@
 
 ## Introduction <a name="introduction"></a>
 
-Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 5, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
+Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 7, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
 
-This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 5.
+This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 7.
 
 ## Glossary <a name="glossary"></a>
 
@@ -43,7 +43,7 @@ Using my highest equipped item level, here are the stats I have in the wild vers
 
 ![Stat translation with PvP template](img/stats-infographic.png)
 
-Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 970 ilevel raising your overall equipped item level. Therefore, it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
+Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 1000 ilevel raising your overall equipped item level. Therefore, it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
 
 Further, while the specific traits on artifact relics aren't active in PvP, the item level bonus and overall traits unlocked _are_ active. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP, but the buff itself still activates and is proportionally strong to the amount of bonus traits unlocked. ([Source](https://twitter.com/WarcraftDevs/status/847920878675386368))
 
@@ -58,7 +58,7 @@ Further, while the specific traits on artifact relics aren't active in PvP, the 
 | ...           | ...                | ...                   |
 | 101           | +18700             | +7480                 |
 
-Regarding the new Netherlight Crucible added in 7.3, none of the new bonus traits are active in instanced PvP (the tier 2 and tier 3 relic upgrdes). However, the +15 item level you gain to your weapon *is* active and does contribute to your stat template! Note that the Netherlight Crucible unlock is account-wide, so once you do the Argus quest chain once, you can get the free +15 item levels on any character.
+Regarding the new Netherlight Crucible added in 7.3, none of the new bonus traits are active in instanced PvP (the tier 2 and tier 3 relic upgrdes). However, the +15 item level you gain to your weapon *is* active and does contribute to your stat template! Note that the Netherlight Crucible unlock is account-wide, so once you do the Argus quest chain once, you can get the free +15 weapon item levels on any character.
 
 TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
 
@@ -91,7 +91,7 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Almost always take -** *Psychic Voice*. This talent reduces your AoE fear by 30 seconds, which allows for double the amount of crowd control going out against your enemies.
 
-**Rarely take -** *Shining Force*. The knock back effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off.
+**Sometimes take -** *Shining Force*. The knock back effect from Shining Force can see some play in the Dalaran Sewers or Blade's Edge Arena maps to help set up line of sight difficulties for the enemy team. However, the same can also be accomplished by just Mind Controlling the enemy off. This talent can also be helpful against melee cleaves trying to train you down, as it will give you a few seconds of breathing room to get out a Shadow Mend on yourself.
 
 **Never take -** *Dominant Mind*. It simply does not work in PvP.
 
@@ -154,7 +154,7 @@ In arenas, Discipline's primary weakness is their propensity to burn through man
 
 **Sometimes take -** *Trinity*. This is an exceptionally clunky talent to get used to, but can provide quite a bit of healing through damage if there's no CC to break out of via *Premontiion*. 
 
-**Rarely take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. Due to the amount of damage that goes out in 3v3 now, Smite is not a very common spell; this talent has a much better place in the 2v2 bracket in Season 5.
+**Rarely take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. Due to the amount of damage that goes out in 3v3 now, Smite is not a very common spell; this talent has a much better place in the 2v2 bracket in Season 7.
 
 
 #### Row 5
@@ -180,7 +180,7 @@ In arenas, Discipline's primary weakness is their propensity to burn through man
 
 Discipline Priest's main weakness in arena is the clock: simply put, we run out of mana faster than every other healer. Because of this, Priest works best in control comps - that is, comps where your team can lock down enemy players repeatedly to help ensure a quick game. The longer a game goes on, the faster a Priest will OOM and the tougher it will be to secure a victory.
 
-Let's take a look at some of the common strong compositions Discipline Priests are running in Legion Season 5:
+Let's take a look at some of the common strong compositions Discipline Priests are running in Legion Season 7:
 
 
 ### RMP - Rogue / Mage / Priest
@@ -201,7 +201,7 @@ There was some really strong Cupid games in the most recent [North American Aren
 
 ### Jungle - Feral Druid / Hunter / Priest
 
-This comp works very similarly to the previous two, Thug and Cupid. Since Ferals recieved a ridiculous damage and quality of life buff in 7.3 / Season 5, they're quite powerful allies to have. CC chains work similarly as before, where your Feral will Maim or Mighty Bash a target, Hunter traps off of the stun/incap, and you follow with a Psychic Scream out. If an enemy healer has to sit that whole chain (say, they don't have trinket available), your Druid with Incarn can easily shred the enemy team apart. Overall this is a really fun composition to play right now and can be quite strong.
+This comp works very similarly to the previous two, Thug and Cupid. Since Ferals recieved a ridiculous damage and quality of life buff in 7.3 / Season 7, they're quite powerful allies to have. CC chains work similarly as before, where your Feral will Maim or Mighty Bash a target, Hunter traps off of the stun/incap, and you follow with a Psychic Scream out. If an enemy healer has to sit that whole chain (say, they don't have trinket available), your Druid with Incarn can easily shred the enemy team apart. Overall this is a really fun composition to play right now and can be quite strong.
 
 ## Common Opponents - 3v3 <a name="opponents"></a>
 
