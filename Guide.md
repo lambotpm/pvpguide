@@ -1,10 +1,10 @@
-# Discipline Priest PvP Guide - 7.3 / Legion Season 7
+# Discipline Priest PvP Guide - 8.0 / Battle for Azeroth Season 1
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Glossary](#glossary)
-2. [Gearing & Artifact](#gearing)
+2. [Gearing](#gearing)
 3. [Talents - 3v3](#talents)
    1. [Standard Talents](#standard-talents)
    2. [Honor Talents](#honor-talents)
@@ -35,32 +35,7 @@ Before we jump in, let's define a few terms that you'll see throughout this guid
 
 - *Comps* - Short for team compositions. An example of a comp is "RMP" - or Rogue/Mage/Priest. Some common comps for Discipline Priests are listed further down in the guide, along with tips on how to play them.
 
-## Gearing & Artifact <a name="gearing"></a>
-
-As of the release of Legion, PvP the stats on your equipment no longer matter in instanced PvP. Instead, whenever a player enters an arena, battleground, or rated battleground, a stat template is applied to the character. This stat template is inflexible and predetermined, i.e. there's no way to influence your template to have more Haste. 
-
-Using my highest equipped item level, here are the stats I have in the wild versus the stats I have *through the template* in instanced PvP:
-
-![Stat translation with PvP template](img/stats-infographic.png)
-
-Of special notice is legendary items: while you do not benefit from their PvE ability bonus effects (such as the shield on Prydaz), you _do_ benefit from their 1000 ilevel raising your overall equipped item level. Therefore, it's important to equip legendaries in your weakest slots to raise your item level as much as possible independent of their PvE effects when entering instanced PvP. 
-
-Further, while the specific traits on artifact relics aren't active in PvP, the item level bonus and overall traits unlocked _are_ active. Specifically, *Concordance of the Legionfall* - the 52 point paragon trait and any subsequent points - are active in arena. The amount of bonus stats per point have been reduced in instanced PvP, but the buff itself still activates and is proportionally strong to the amount of bonus traits unlocked. ([Source](https://twitter.com/WarcraftDevs/status/847920878675386368))
-
-| Artifact Rank | +Int in open world | +Int in instanced PvP |
-| ------------- | ------------------ | --------------------- |
-| 52            | +4000              | +1600                 |
-| 53            | +4300              | +1720                 |
-| 54            | +4600              | +1840                 |
-| 55            | +4900              | +1960                 |
-| ...           | ...                | ...                   |
-| 60            | +6400              | +2560                 |
-| ...           | ...                | ...                   |
-| 101           | +18700             | +7480                 |
-
-Regarding the new Netherlight Crucible added in 7.3, none of the new bonus traits are active in instanced PvP (the tier 2 and tier 3 relic upgrdes). However, the +15 item level you gain to your weapon *is* active and does contribute to your stat template! Note that the Netherlight Crucible unlock is account-wide, so once you do the Argus quest chain once, you can get the free +15 weapon item levels on any character.
-
-TL;DR: Use your highest item level gear and dump as much AP into your weapon as possible, including *Concordance* and subsequent traits. Relic traits don't matter but weapon ilevel does.
+## Gearing<a name="gearing"></a>
 
 
 ## Talents - 3v3 <a name="talents"></a> 
@@ -75,7 +50,7 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Sometimes take -** *Castigation*. Castigation gives a straight 33% buff to our biggest damaging and healing spell, and - like most things Discipline - is great for both damaging and healing. While playing as a team with lots of control or playing against a team that has lots of spread pressure, *Castigation* can offer the most bang for your buck by allowing your team to stay offensive while providing strong healing through Atonement or direct healing (now that *The Penitent* is baseline) in emergency situations. It's particularly strong when playing with comps that try to close out a game quickly, such as RMP or Cupid.
 
-**Almost never take -** *Schism*. While Schism can provide a substantial buff to your damage output, it's a clunky spell to use and very expensive on mana. It also gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency.
+**Maybe take -** *Schism*. While Schism can provide a substantial buff to your damage output, it's a clunky spell to use and very expensive on mana. It also gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency.
 
 #### Row 2
 ![Talent row2](img/talent2.png)
@@ -84,10 +59,15 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Sometimes take -** *Body and Soul*. While not an awful talent, Power Word: Shields should be spent on mitigating incoming damage on your team, not providing speed buffs. The one upside to this talent is that it requires almost no management and also provides another dispellable buff on your allies, forcing enemies to purge more often to get off important spells. Against very Purge-heavy players (aggressive Shamans, Priests, even Mages), the extra buff to churn through can be a lifesaver.
 
-**Rarely take -** *Masochism*. If you think you're going to be focused by a melee team, Masochism can help keep you alive by providing more damage reduction. While Discipline Priests are reasonably tanky for a healer, there is some insane damage coming out in arena right now from melee cleaves -- if you find that you're having trouble staying alive, this talent can definitely help.
+**Sometimes take -** *Masochism*. If you think you're going to be focused by a melee team, Masochism can help keep you alive by providing more damage reduction. While Discipline Priests are reasonably tanky for a healer, there is some insane damage coming out in arena right now from melee cleaves -- if you find that you're having trouble staying alive, this talent can definitely help.
 
 #### Row 3
 ![Talent row3](img/talent3.png)
+
+This row not only depends a lot on your comfort level with Priest, but also what composition you're playing and what you're playing against. I go into detail about why I recommend *Mindbender* further down in the cooldown section of this guide, but it's worth mentioning that *Power Word: Solace* is also a good option. *Power Word: Solace* provides the most damage and most mana return out of all the talent options here in PvP situations, but it requires you to use it virtually on cooldown to not run into mana problems. 
+
+#### Row 4
+![Talent row4](img/talent4.png)
 
 **Almost always take -** *Psychic Voice*. This talent reduces your AoE fear by 30 seconds, which allows for double the amount of crowd control going out against your enemies.
 
@@ -95,15 +75,14 @@ TL;DR: Use your highest item level gear and dump as much AP into your weapon as 
 
 **Never take -** *Dominant Mind*. It simply does not work in PvP.
 
-#### Row 4
-![Talent row4](img/talent4.png)
-
-This row not only depends a lot on your comfort level with Priest, but also what composition you're playing and what you're playing against. I go into detail about why I recommend *Mindbender* further down in the cooldown section of this guide, but it's worth mentioning that *Power Word: Solace* is also a good option. *Power Word: Solace* provides the most damage and most mana return out of all the talent options here in PvP situations, but it requires you to use it virtually on cooldown to not run into mana problems. 
-
 #### Row 5
 ![Talent row5](img/talent5.png)
 
-**Always take -** *Clarity of Will*. Clarity of Will allows you to pre-shield targets for huge amounts at the start of an arena match, mitigating much of an enemy team's opening burst. It also is on the Holy spell school, so if you get spell locked while casting Shadow Mend and Penance is on cooldown, you still have a way to meaningfully heal your team. The other two talents can have an impact in PvE situations or 2v2 arenas, but aren't well suited for 3v3.
+**Usually take -** *Sins of the Many*.
+
+**Sometimes take -** *Contrition*.
+
+**Rarely take -** *Shadow Covenant*.
 
 #### Row 6
 ![Talent row6](img/talent6.png)
@@ -115,10 +94,12 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 7
 ![Talent row7](img/talent7.png)
 
-**Always take -** *Grace*. This is a straight 30% buff to throughput for the majority of your heals in PvP. There is no reason to consider the other two talents for 3v3 arena.
+**Almost always take -** *Lenience*. 
+
+**Rarely take -** *Luminous Barrier*.
+
 
 ### Honor Talents <a name="honor-talents"></a>
-[TL;DR: This is the default talent load out.](http://www.wowhead.com/honor-calc/priest/discipline/JmY)
 
 #### Row 1
 ![PvP talents row1](img/honor1.png)
@@ -129,14 +110,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Sometimes take -** *Adaption*. This talent works best against teams with infrequent CC, or if your teammates are capable of breaking you out of some enemy crowd control (say a Retribution or Protection Paladin).
 
-#### Row 2
-![PvP talents row2](img/honor2.png)
 
-**Usually take -** *Vim and Vigor*. Due to Discipline's relative tankiness through *Focused Will* and reliance on instant cast spells, Priests are not usually a kill target. Due to this you'll spend most games sitting at high health for the entire duration of the match, allowing for a passive +20% healing.
-
-**Maybe take -** *Defender of the Weak* or *Inner Renewal*. *Defender of the Weak* is a solid option against teams with a propensity for fast target switching. The haste bonus will allow you to quickly Shadow Mend a teammate back into safe levels of health after they drop very low. Keep in mind this effect stacks with the *Twist of Fate* talent, allowing for some very quick recovery healing. 
-
-In arenas, Discipline's primary weakness is their propensity to burn through mana very quickly, especially if you are actively Purging the enemy team (say, against Resto Druids). *Inner Renewal* has the potential to give huge mana savings over the course of a match if you know the enemy team will be focusing you. At low ratings, a lot of double melee teams or triple DPS teams will simply try to burst down a healer - here *Inner Renewal* can really shine. At higher ratings though, you won't often get the most use out of this talent compared to the other two.
 
 #### Row 3
 ![PvP talents row3](img/honor3.png)
@@ -339,8 +313,6 @@ These days, most of the useful information you'll need to be successful in arena
 [OmniBar](https://mods.curse.com/addons/wow/omnibar) - OmniBar tracks enemy cooldowns and is highly customizable. It's very helpful for knowing when you need to fake cast against an interrupt or knowing when the enemy team's CC chain may start up again.
 
 [SortGroup](https://mods.curse.com/addons/wow/sortgroup) - Allows you to determine the order of party frames, so that you're always at the top (or bottom) of your party. This is helpful when arenaing because the order in which the group is assembled is based on who loads in to the arena first, meaning you will likely have a different party layout each match. This addon helps manage that minor headache. 
-
-[GladiatorlosSA](https://mods.curse.com/addons/wow/gladiatorlossa) - A customizable addon that provides voice overs to alert when enemy spells are being cast. This addon can be very annoying at first, but I have it set up purely for spells that I know I can break out of using Premonition such as Polymorph and Hex.
 
 [Details!](https://mods.curse.com/addons/wow/details) - A very informative DPS meter. I use it to track interrupts and incoming CC / CC breaks when discussing how to improve after a match with my team.
 
