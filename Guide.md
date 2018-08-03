@@ -125,7 +125,7 @@ In Battle for Azeroth, Honor talents have changed a bit in that you can select _
 
 Many of the talents have great situational uses, but won't be taken in every matchup. We'll be covering each of the PvP talents and discussing their strengths and drawbacks, along with suggesting when they may be the best option. Before each game you should take into account both what comp you're playing and what you're about to face, and change talents to give your team the optimal chance at success. 
 
-#### Row 1
+### Trinket Selection 
 ![PvP talents row1](img/honor1.png)
 
 **Usually take -** *Gladiator's Medallion*. This is the trickiest row in all the talents because the optimal choice depends upon both which race your Priest plays and also what team you're about to be playing against. Typically the best choice is to stay with the on-demand "trinket," allowing you to choose which enemy setups you need to escape for either saving a teammate or setting up a kill by landing a pivotal fear or throwing out some extra damage.
@@ -135,7 +135,7 @@ Many of the talents have great situational uses, but won't be taken in every mat
 **Sometimes take -** *Adaption*. This talent works best against teams with infrequent CC, or if your teammates are capable of breaking you out of some enemy crowd control (say a Retribution or Protection Paladin).
 
 
-#### General Honor Talent Pool
+### General Honor Talent Pool
 
 **Usually take -** *Purification*. This is a standard "double dispel" talent and is great against any team with area of effect dispellable magic (a Mage's Frost Nova) or any team with spammable crowd control (Polymorph, Warlock Fear). A large portion of a healer's responsibility in arena is limiting enemy crowd control against your team and mitigating their damage - being able to dispel more frequently is key.
 
