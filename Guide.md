@@ -39,15 +39,17 @@ Before we jump in, let's define a few terms that you'll see throughout this guid
 
 ## Changes from Legion to BfA <a name="changes"></a>
 
-[For a complete list of changes to Discipline in Battle for Azeroth, please check out this Focused Will article.](http://focusedwill.com/discipline-bfa-changes-final).
+[For a complete list of changes to Discipline in Battle for Azeroth, please check out this Focused Will article.](http://focusedwill.com/discipline-bfa-changes-final)
 
 Changes worth highlighting in a PvP context:
 
 * Our party stamina buff, *Power Word: Fortitude* is back. Note that it is a purgable Magic-type buff.
 
+* *Clarity of Will* has been removed.
+
 * *Plea* has been removed in favor of a zero-cooldown but weak *Power Word: Shield.* As this is now the standard single-target *Atonement* applicator, the Honor talent *Trinity* now works with *Power Word: Shield*.
 
-* *Rapture* has changed to make *Power Word: Shield*s an additional 200% stronger for its duration. **It is now on the global cooldown.**
+* *Rapture* has changed to make *Power Word: Shields* an additional 200% stronger for its duration. **It is now on the global cooldown.**
 
 * The Honor talents *Archangel* and *Dark Archangel* are **now on the global cooldown.**
 
@@ -57,7 +59,10 @@ Changes worth highlighting in a PvP context:
 
 Gearing in Battle for Azeroth is once again impactful! While player power will be scaled within instance PvP, your secondary stats from equipped gear will remain intact. Further, trinkets are usable again. That means meaningful choices in terms of how you choose to gear your character!
 
-TODO: Stats: int > haste > mastery > crit = vers.
+Stats: int > haste > mastery > crit = vers.
+
+
+**NOTE: This section is still under construction! Check back soon / before BFA Season 1 launches on September 4, 2018 for more information.** 
 
 TODO: Add Azerite Traits
 
