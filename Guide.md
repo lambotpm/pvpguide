@@ -75,7 +75,7 @@ TODO: Add Azerite Traits
 
 **Sometimes take -** *Castigation*. Castigation gives a straight 33% buff to one of our biggest damaging and healing spell, and - like most things Discipline - is great for both damaging and healing. While playing as a team with lots of control or playing against a team that has lots of spread pressure, *Castigation* can offer the most bang for your buck by allowing your team to stay offensive while providing strong healing through Atonement or direct healing (now that *The Penitent* is baseline) in emergency situations. It's particularly strong when playing with comps that try to close out a game quickly, such as RMP or Cupid. It can be very strong in 2v2 when paired with Honor talents like *Searing Light* and *Trinity* for keeping your team on the offensive.
 
-**Maybe take -** *Schism*. While Schism can provide a substantial buff to your damage output, it gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency. Further, when you're in dire need of catch-up healing, this talent does nothing to help you recover.
+**Rarely take -** *Schism*. While Schism can provide a substantial buff to your damage output, it gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency. Further, when you're in dire need of catch-up healing, this talent does nothing to help you recover.
 
 #### Row 2
 ![Talent row2](img/talent2.png)
@@ -103,25 +103,25 @@ This row not only depends a lot on your comfort level with Priest, but also what
 #### Row 5
 ![Talent row5](img/talent5.png)
 
-**Usually take -** *Sins of the Many*.
+**Usually take -** *Sins of the Many*. Even with 3 active *Atonements*, this talent grants you a passive +8% damage buff. In Arenas, this is a go-to for helping put out pressure. In RBGs, even with a smaller damage boost while having lots of Atonements out, the overall value is the highest.
 
-**Sometimes take -** *Contrition*.
+**Rarely take -** *Contrition*. This talent can be good if you're using defensive *Penance* almost exclusively _and_ have a lot of *Atonements* out. Maybe a good safety net if you're newer to RBGs, but still less throughput overall compared to *Sins of the Many*.  
 
-**Rarely take -** *Shadow Covenant*.
+**Rarely take -** *Shadow Covenant*. Even with its buffed values compared to Legion and reduced mana cost, this ability just doesn't shine.
 
 #### Row 6
 ![Talent row6](img/talent6.png)
 
-**Almost always take -** *Purge the Wicked*. While PtW no longer is a straight damage buff over the standard Shadow Word: Pain, its savings in arena come in the form of GCDs. It's important to keep SW:P/PtW on as many targets as possible to increase passive healing, and being able to save GCDs by spreading with offensive Penance is very strong.
+**Almost always take -** *Purge the Wicked*. While PtW no longer is a straight damage buff over the standard Shadow Word: Pain, its savings in arena come in the form of GCDs. It's important to keep SW:P/PtW on as many targets as possible to increase passive healing in Arena while providing rot damage, and being able to save GCDs by spreading with offensive Penance is very strong.
 
-**Almost never take -** *Divine Star* or *Halo*. These both offer minimal healing in PvP, are expensive on mana, and more often than not will break CC. An exception for here is in RBGs, *Halo* often can give you the best healing output in large team fights.
+**Almost never take -** *Divine Star* or *Halo*. These both offer minimal healing in arenas, are expensive on mana, and more often than not will break CC. An exception for here is in RBGs, where *Halo* can shine when it's able to heal many targets. 
 
 #### Row 7
 ![Talent row7](img/talent7.png)
 
-**Almost always take -** *Lenience*. 
+**Always take -** *Lenience*. 3% damage reduction on everybody with an active *Atonement* is quite a massive bonus to survivability. Not only is this a huge boost to survivability for your whole team and requires _no effort_ to maintain, it's also just strictly better than the alternatives in a PvP environment. 
 
-**Rarely take -** *Luminous Barrier*.
+**Rarely take -** *Luminous Barrier*. The absorb effect of *Luminous Barrier* is exceptionally tiny on each individual player - about a 20k absorb at 366 item level, where health values are ~140k without Fortitude. While this amount gets buffed with the *Dome of Light* Honor talent, it's still very weak. The only time this talent may be worth taking is in huge unrated battlegrounds when you can get high value out of it - say on your whole team in Alterac Valley. Otherwise it's just weaker than *Lenience*. 
 
 
 ## Honor Talents <a name="honor-talents"></a>
