@@ -156,14 +156,13 @@ Many of the talents have great situational uses, but won't be taken in every mat
 
 #### Weak Talents
 
-*Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. Due to the amount of damage that goes out in 3v3 now, Smite is not a very common spell; this talent has a much better place in the 2v2 bracket in Season 7.
+*Searing Light*. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. Due to the amount of damage that goes out in 3v3 now, Smite is not a very common spell; this talent has a much better place in the 2v2 bracket, often paired with *Trinity*.
 
-*Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melees have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. That said, this talent becomes borderline overpowered during *Rapture*. 
+*Strength of Soul*. The physical damage reduction offered by *Strength of Soul* is still very strong, especially during *Rapture*, but unfortunately shields are generally so weak these days that the actual value of the talent is quite a bit lower than it was during Legion. This talent can still be good against teams that have all physical damage and no Purge effects. 
 
-*Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short. If you find yourself dying in openers to double melee teams, this talent _can_ help give you the breathing room needed to recover, but your teammates should be able to provide enough CC to where this talent is less useful than the alternatives.
+*Dome of Light*. *Dome of Light* adds quite a lot of value to both *Power Word: Barrier* and *Luminous Barrier*, but doesn't offer any value outside of their use every two minutes. This talent can be strong if you're facing against a team that has an incredibly powerful all-in every two minutes (maybe an enemy team pairing Dark Archangel with an Assassination Rogue's Vendetta), but that requires you actually getting the *Barrier* off when it is needed, and having no better Honor talent alternatives. 
 
-*Purified Resolve*. Against teams with infrequent dispellable debuffs, this talent can be preferable to *Purification*. An example would be playing against Unholy Death Knights - there's typically rarely a need to defensively dispel, but doing so would somewhat limit incoming damage and apply a shield to help mitigate the single target onslaught.
-
+*Purified Resolve*. Against teams with infrequent dispellable debuffs, this talent can be preferable to *Purification*. An example would be playing against Unholy Death Knights - there's typically rarely a need to defensively dispel, but doing so would somewhat limit incoming damage and apply a shield to help mitigate the single target onslaught. Typically there are better Honor talent alternatives.
 
 
 ## Common Compositions - 3v3 <a name="comps"></a>
