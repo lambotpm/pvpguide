@@ -181,8 +181,6 @@ Let's take a look at some of the common strong compositions Discipline Priests a
 
 This classic composition has been strong since as far back as *The Burning Crusade.* The idea here is to overwhelm the enemy team with as much cross-CC as possible to force defensive cooldowns very early on. In this composition, you will find yourself playing much more aggressively to try to secure a very early kill. Look for openings when you can follow up a Polymorph or Kidney Shot with a fear while your teammates lock everybody else in place.
 
-Xaryu has a [fantastic video](https://www.youtube.com/watch?v=zNsxAGx-Ic4) about how to play RMP effectively. 
-
 ### Thug Cleave - Sub Rogue / Hunter / Priest
 
 With the recent buffs to Sub Rogue output and the insane amount of cross-CC available between Rogue stun, Hunter traps, your fears and Mind Controls, this composition can be incredibly effective when played well. Make sure you keep your eyes open for when you can follow up a CC chain (typically Fearing after a Hunter trap, or using Mind Control to steer an enemy into a dodged trap) and throw out some damage to help end games quickly.
@@ -191,13 +189,13 @@ With the recent buffs to Sub Rogue output and the insane amount of cross-CC avai
 
 Similar to running Thug Cleave, Cupid works by setting up long chains of crowd control on an enemy healer while having a good amount of defensive utility. While Retribution Paladins are less strong in Legion Season 4 than they were previously, they still can put out some pretty scary damage while helping you avoid enemy CC with Blessing of Sanctuary. Typically, Hunters will use their Freezing Trap on a target stunned by Hammer of Justice: follow this up with a Psychic Scream for an incredibly long CC chain on an enemy healer.
 
-There was some really strong Cupid games in the most recent [North American Arena Championship that I highly recommend watching.](https://www.twitch.tv/videos/173273499?t=03h57m01s)
-
 ### Jungle - Feral Druid / Hunter / Priest
 
 This comp works very similarly to the previous two, Thug and Cupid. Since Ferals recieved a ridiculous damage and quality of life buff in 7.3 / Season 7, they're quite powerful allies to have. CC chains work similarly as before, where your Feral will Maim or Mighty Bash a target, Hunter traps off of the stun/incap, and you follow with a Psychic Scream out. If an enemy healer has to sit that whole chain (say, they don't have trinket available), your Druid with Incarn can easily shred the enemy team apart. Overall this is a really fun composition to play right now and can be quite strong.
 
 ## Common Opponents - 3v3 <a name="opponents"></a>
+
+**Note: This section is currently out of date and under construction for Battle for Azeroth Season 1.** The meta quickly shifts on arena ladders depending on a variety of factors, particularly balance hotfixes. On the 120 Gladiator Realm at the time of writing this, compositions are all over the place while players experiment with new classes and different Azerite traits. That all said, there are a few timeless compositions that will certainly make an appearance throughout Battle for Azeroth. This section will be updated as the BfA arena meta continues to develop. 
 
 ### TSG - Arms Warrior / Death Knight / Healer
 
