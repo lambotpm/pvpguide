@@ -5,23 +5,22 @@
 1. [Introduction](#introduction)
 2. [Glossary](#glossary)
 2. [Gearing](#gearing)
-3. [Talents - 3v3](#talents)
-   1. [Standard Talents](#standard-talents)
-   2. [Honor Talents](#honor-talents)
-4. [Common Compositions - 3v3](#comps)
-5. [Common Opponents - 3v3](#opponents)
-6. [Cooldowns](#cooldowns)
-7. [Macros & Keybinds](#macros)
-8. [Addons](#addons)
-9. [Tips & Tricks](#tips)
-10. [Twitch Streams](#streams)
+3. [Talents](#talents)
+4. [Honor Talents](#honor-talents)
+5. [Common Compositions - 3v3](#comps)
+6. [Common Opponents - 3v3](#opponents)
+7. [Cooldowns](#cooldowns)
+8. [Macros & Keybinds](#macros)
+9. [Addons](#addons)
+10. [Tips & Tricks](#tips)
+11. [Twitch Streams](#streams)
    
 
 ## Introduction <a name="introduction"></a>
 
-Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. As of Legion PvP Season 7, Discipline remains one of the [strongest healing specs for 3v3 arena](http://www.arenamate.net/?region=&realm=&rating=2000&ladder=3v3&faction=) with quite a bit of utility.
+Discipline Priests are unique healers that heal through a combination of damaging enemies and directly casting on allies. In BfA, the playstyle is very similar to how it played out in Legion PvP, but now we have a few new exciting talent and Honor talent combinations. 
 
-This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for 3v3 arena in Legion Season 7.
+This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for PvP in Battle for Azeroth.
 
 ## Glossary <a name="glossary"></a>
 
@@ -37,11 +36,13 @@ Before we jump in, let's define a few terms that you'll see throughout this guid
 
 ## Gearing<a name="gearing"></a>
 
+Gearing in Battle for Azeroth is once again impactful! While player power will be scaled within instance PvP, your secondary stats from equipped gear will remain intact. Further, trinkets are usable again. That means meaningful choices in terms of how you choose to gear your character!
 
-## Talents - 3v3 <a name="talents"></a> 
+TODO: Stats: int > haste > mastery > crit = vers.
 
-### Standard talents <a name="standard-talents"></a>
-[TL;DR: This is the default talent load out.](http://www.wowhead.com/talent-calc/priest/discipline/cBjM)
+TODO: Add Azerite Traits
+
+## Talents<a name="talents"></a> 
 
 #### Row 1
 ![Talent row1](img/talent1.png)
@@ -99,7 +100,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Rarely take -** *Luminous Barrier*.
 
 
-### Honor Talents <a name="honor-talents"></a>
+## Honor Talents <a name="honor-talents"></a>
 
 #### Row 1
 ![PvP talents row1](img/honor1.png)
