@@ -22,6 +22,8 @@ Discipline Priests are unique healers that heal through a combination of damagin
 
 This guide aims to provide some high level information on optimal talent builds, cooldown usage and strong team compositions for PvP in Battle for Azeroth.
 
+**Disclaimer:** Battle for Azeroth has still not launched, and Season 1 does not begin until September 4, 2018. Currently classes are undergoing tuning changes multiple times per week, as are Honor talents and Azerite traits. This guide will be updated to reflect changes in balance as they occur.
+
 ## Glossary <a name="glossary"></a>
 
 Before we jump in, let's define a few terms that you'll see throughout this guide and when interacting with the PvP community:
