@@ -4,16 +4,17 @@
 
 1. [Introduction](#introduction)
 2. [Glossary](#glossary)
-2. [Gearing](#gearing)
-3. [Talents](#talents)
-4. [Honor Talents](#honor-talents)
-5. [Common Compositions - 3v3](#comps)
-6. [Common Opponents - 3v3](#opponents)
-7. [Cooldowns](#cooldowns)
-8. [Macros & Keybinds](#macros)
-9. [Addons](#addons)
-10. [Tips & Tricks](#tips)
-11. [Twitch Streams](#streams)
+3. [Changes from Legion to BfA](#changes)
+3. [Gearing](#gearing)
+4. [Talents](#talents)
+5. [Honor Talents](#honor-talents)
+6. [Common Compositions - 3v3](#comps)
+7. [Common Opponents - 3v3](#opponents)
+8. [Cooldowns](#cooldowns)
+9. [Macros & Keybinds](#macros)
+10. [Addons](#addons)
+11. [Tips & Tricks](#tips)
+12. [Twitch Streams](#streams)
    
 
 ## Introduction <a name="introduction"></a>
@@ -35,6 +36,22 @@ Before we jump in, let's define a few terms that you'll see throughout this guid
 - *CC* - Short for crowd control, this term includes any spells that prevent an enemy player from interacting for a shrort time, such as *Psychic Scream* or *Mind Control*. *CC Chains* are when multiple CC spells are used in a row on a target, preventing them from playing for even longer. 
 
 - *Comps* - Short for team compositions. An example of a comp is "RMP" - or Rogue/Mage/Priest. Some common comps for Discipline Priests are listed further down in the guide, along with tips on how to play them.
+
+## Changes from Legion to BfA <a name="changes"></a>
+
+[For a complete list of changes to Discipline in Battle for Azeroth, please check out this Focused Will article.](http://focusedwill.com/discipline-bfa-changes-final).
+
+Changes worth highlighting in a PvP context:
+
+* Our party stamina buff, *Power Word: Fortitude* is back. Note that it is a purgable Magic-type buff.
+
+* *Plea* has been removed in favor of a zero-cooldown but weak *Power Word: Shield.* As this is now the standard single-target *Atonement* applicator, the Honor talent *Trinity* now works with *Power Word: Shield*.
+
+* *Rapture* has changed to make *Power Word: Shield*s an additional 200% stronger for its duration. **It is now on the global cooldown.**
+
+* The Honor talents *Archangel* and *Dark Archangel* are **now on the global cooldown.**
+
+* The damage reduction component to *Fade* is gone along with most other artifact traits, but we now have *Desperate Prayer* back as a personal cooldown. See the cooldown section for more information.
 
 ## Gearing<a name="gearing"></a>
 
@@ -104,6 +121,10 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 ## Honor Talents <a name="honor-talents"></a>
 
+In Battle for Azeroth, Honor talents have changed a bit in that you can select _any_ three talents you want, in addition to a "PvP trinket" talent. This opens up a lot more interesting combinations that weren't available or easy to play in Legion. 
+
+Many of the talents have great situational uses, but won't be taken in every matchup. We'll be covering each of the PvP talents and discussing their strengths and drawbacks, along with suggesting when they may be the best option. Before each game you should take into account both what comp you're playing and what you're about to face, and change talents to give your team the optimal chance at success. 
+
 #### Row 1
 ![PvP talents row1](img/honor1.png)
 
@@ -114,9 +135,7 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Sometimes take -** *Adaption*. This talent works best against teams with infrequent CC, or if your teammates are capable of breaking you out of some enemy crowd control (say a Retribution or Protection Paladin).
 
 
-
-#### Row 3
-![PvP talents row3](img/honor3.png)
+#### General Honor Talent Pool
 
 **Usually take -** *Purification*. This is a standard "double dispel" talent and is great against any team with area of effect dispellable magic (a Mage's Frost Nova) or any team with spammable crowd control (Polymorph, Warlock Fear). A large portion of a healer's responsibility in arena is limiting enemy crowd control against your team and mitigating their damage - being able to dispel more frequently is key.
 
@@ -124,27 +143,17 @@ This row not only depends a lot on your comfort level with Priest, but also what
 
 **Rarely take-** *Spiritual Cleansing*. This talent has a niche depending on what classes you're playing with and what team you're facing. If you're not sure whether this is worth taking, stick with *Purification*. 
 
-#### Row 4
-![PvP talents row4](img/honor4.png)
-
 **Almost always take -** *Premonition*. This talent is the stand in for the old utility of *Shadow Word: Death* - that is, it applies a small amount of damage to the Priest on a delay, allowing them to break incoming crowd control. You'll always want to take this against classes that contain breakable crowd control, namely a Mage's Polymorph, Hunter traps and Wyvern Sting, Shaman Hex, Monk and Feral Druid incapacitates, et cetera. There's almost always at least one use for this in a match. Down further in the guide is a list of CCs that *Premonition* can free you from.
 
 **Sometimes take -** *Trinity*. This is an exceptionally clunky talent to get used to, but can provide quite a bit of healing through damage if there's no CC to break out of via *Premontiion*. 
 
 **Rarely take -** *Searing Light*. If there's nothing for you to break out of with *Premonition*, then *Searing Light* can be a good alternative. This talent allows you to play a bit more aggressively with offensive Smites and Penances to help apply more pressure. Due to the amount of damage that goes out in 3v3 now, Smite is not a very common spell; this talent has a much better place in the 2v2 bracket in Season 7.
 
-
-#### Row 5
-![PvP talents row5](img/honor5.png)
-
 **Often take -** *Strength of Soul*. With patch 7.2.5, *Strength of Soul* was buffed to heal significantly more than it had previously. Further, now that most players have unlocked their new artifact traits, our Power Word: Shields contribute a lot more healing than they used to. Add to this how strong many physical melee classes are, such as Arms Warriors, and this talent can be really strong in the right situations. It's important to remember, however, that a lot of melees have magical components to their attacks - a lot of a Death Knight's damage is Shadow or Frost damage, for example, and *Strength of Soul* would not offer any help mitigating that damage. That said, this talent becomes borderline overpowered during *Rapture*. 
 
 **Sometimes take -** *Ultimate Radiance*. This talent makes Power Word: Radiance instant cast and directly heal for a lot more than in PvE situations. It has a double effect of quickly applying a large amount of healing to the whole team (assuming they're relatively close to each other) _and_ applying Atonement to the entire team. And as of patch 7.2.5, Discipline Priests now have two charges of the spell, allowing for some serious instant cast burst healing to the entire group. This can be huge for recovering from split pressure against rot teams, or simply keeping one person alive while dodging interrupts and counter spells. Against caster cleave teams, this is a very strong option. 
 
 **Almost never take -** *Dome of Light*. The competition on this tier is just too good to justify this talent. Add on top of that how easy it is to pull people out of your Power Word: Barrier, and this talent just falls a bit short. If you find yourself dying in openers to double melee teams, this talent _can_ help give you the breathing room needed to recover, but your teammates should be able to provide enough CC to where this talent is less useful than the alternatives.
-
-#### Row 6
-![PvP talents row6](img/honor6.png)
 
 **Almost always take -** *Archangel*. This talent is the *Velen's Future Sight* of PvP. It's single handedly one of the strongest healing buffs any healer has in PvP, and only on a one minute cooldown. It's recommended that you grind to honor level 28 as soon as possible to unlock this talent.
 
