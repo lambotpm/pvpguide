@@ -69,7 +69,6 @@ TODO: Add Azerite Traits
 ## Talents<a name="talents"></a> 
 
 #### Row 1
-![Talent row1](img/talent1.png)
 
 **Usually take -** *Twist of Fate*. Twist of Fate is still an incredibly strong talent for recovering from dangerous situations. It's a great choice when you're facing against a team that has a lot of crowd control for allowing you to recover quickly, or for when an enemy team is likely to tunnel and try to burst you down. When unsure of which talent to take here, defaulting to *Twist of Fate* is always a fine option.
 
@@ -78,7 +77,6 @@ TODO: Add Azerite Traits
 **Rarely take -** *Castigation*. Castigation gives a straight 33% buff to Penance. While this was the default talent for much of Legion, unfortunately, Penance isn't very good at this point in Legion. Unless you have a *Power of the Dark Side* proc active, it's typically better to just Smite for damage or Shadow Mend for direct healing rather than casting an un-buffed Penance. (The obvious exception here is for when you need to be moving while healing or damaging.) It can be very strong in 2v2 when paired with Honor talents like *Searing Light* and *Trinity* for keeping your team on the offensive, but typically is the weakest of the three options.
 
 #### Row 2
-![Talent row2](img/talent2.png)
 
 **Usually take -** *Angelic Feather*. Priest is a very immobile class this expansion. Feathers can help you quickly cross enemy lines to drop a Fear or pull back to safety behind a pillar.
 
@@ -87,12 +85,10 @@ TODO: Add Azerite Traits
 **Sometimes take -** *Masochism*. If you think you're going to be focused by a melee team, Masochism can help keep you alive by providing more damage reduction. While Discipline Priests are reasonably tanky for a healer, there is some insane damage coming out in arena right now from melee cleaves -- if you find that you're having trouble staying alive, this talent can definitely help.
 
 #### Row 3
-![Talent row3](img/talent3.png)
 
 This row not only depends a lot on your comfort level with Priest, but also what composition you're playing and what you're playing against. I go into detail about why I recommend *Mindbender* further down in the cooldown section of this guide, but it's worth mentioning that *Power Word: Solace* is also a good option. *Power Word: Solace* provides the most damage and most mana return out of all the talent options here in PvP situations, but it requires you to use it virtually on cooldown to not run into mana problems. 
 
 #### Row 4
-![Talent row4](img/talent4.png)
 
 **Almost always take -** *Psychic Voice*. This talent reduces your AoE fear by 30 seconds, which allows for double the amount of crowd control going out against your enemies.
 
@@ -101,7 +97,6 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Never take -** *Dominant Mind*. It simply does not work in PvP.
 
 #### Row 5
-![Talent row5](img/talent5.png)
 
 **Usually take -** *Sins of the Many*. Even with 3 active *Atonements*, this talent grants you a passive +8% damage buff. In Arenas, this is a go-to for helping put out pressure. In RBGs, even with a smaller damage boost while having lots of Atonements out, the overall value is the highest.
 
@@ -110,14 +105,12 @@ This row not only depends a lot on your comfort level with Priest, but also what
 **Rarely take -** *Shadow Covenant*. Even with its buffed values compared to Legion and reduced mana cost, this ability just doesn't shine.
 
 #### Row 6
-![Talent row6](img/talent6.png)
 
 **Almost always take -** *Purge the Wicked*. While PtW no longer is a straight damage buff over the standard Shadow Word: Pain, its savings in arena come in the form of GCDs. It's important to keep SW:P/PtW on as many targets as possible to increase passive healing in Arena while providing rot damage, and being able to save GCDs by spreading with offensive Penance is very strong.
 
 **Almost never take -** *Divine Star* or *Halo*. These both offer minimal healing in arenas, are expensive on mana, and more often than not will break CC. An exception for here is in RBGs, where *Halo* can shine when it's able to heal many targets. 
 
 #### Row 7
-![Talent row7](img/talent7.png)
 
 **Always take -** *Lenience*. 3% damage reduction on everybody with an active *Atonement* is quite a massive bonus to survivability. Not only is this a huge boost to survivability for your whole team and requires _no effort_ to maintain, it's also just strictly better than the alternatives in a PvP environment. 
 
@@ -131,7 +124,6 @@ In Battle for Azeroth, Honor talents have changed a bit in that you can select _
 Many of the talents have great situational uses, but won't be taken in every matchup. We'll be covering each of the PvP talents and discussing their strengths and drawbacks, along with suggesting when they may be the best option. Before each game you should take into account both what comp you're playing and what you're about to face, and change talents to give your team the optimal chance at success. 
 
 ### Trinket Selection 
-![PvP talents row1](img/honor1.png)
 
 **Usually take -** *Gladiator's Medallion*. This is the trickiest row in all the talents because the optimal choice depends upon both which race your Priest plays and also what team you're about to be playing against. Typically the best choice is to stay with the on-demand "trinket," allowing you to choose which enemy setups you need to escape for either saving a teammate or setting up a kill by landing a pivotal fear or throwing out some extra damage.
 
@@ -172,10 +164,11 @@ Many of the talents have great situational uses, but won't be taken in every mat
 
 ## Common Compositions - 3v3 <a name="comps"></a>
 
-Discipline Priest's main weakness in arena is the clock: simply put, we run out of mana faster than every other healer. Because of this, Priest works best in control comps - that is, comps where your team can lock down enemy players repeatedly to help ensure a quick game. The longer a game goes on, the faster a Priest will OOM and the tougher it will be to secure a victory.
+Discipline Priest's main weakness in arena is the clock: simply put, we run out of mana faster than every other healer. Because of this, Priest works best in control comps - that is, comps where your team can lock down enemy players repeatedly to help ensure a quick game. The longer a game goes on, the faster a Priest will OOM and the tougher it will be to secure a victory. Combine this with our additional burst damage potential, and suddenly Discipline has an incredibly strong niche.
 
-Let's take a look at some of the common strong compositions Discipline Priests are running in Legion Season 7:
+Let's take a look at some of the common strong compositions Discipline Priests are running in Battle for Azeroth, Season 1: 
 
+**Note:** As the season is not yet live, and balance tuning is nowhere near complete, this section may need significant updates in the upcoming weeks. Stay tuned for up-to-date information about the arena meta.
 
 ### RMP - Rogue / Mage / Priest
 
@@ -205,22 +198,9 @@ There are many variations on this composition now after the recent buffs to seve
 
 Playing against this composition is all about knowing when the enemy team is going for a kill. While their default damage can be quite high, you need to save your Pain Suppression for when a teammate gets hit with Touch of Death. Keep in mind because both of these classes are fairly front-loaded, they can swap targets pretty easily. Be mindful of your positioning and be ready to Life Grip back a friendly after they get Death Gripped into a bad situation. 
 
-### Shadowplay - Shadow Priest / Warlock / Healer (Restoration Shaman)
-
-This composition is very strong this season, and usually ran with a Destruction Warlock, making them super deadly. Try to minimize the amount of Shadow Priest dots out at any given time on your team by being aggressive with dispels, or if your team is clumped up line of sighting some Chaos Bolts, you can Mass Dispel on your team to remove them all at once. 
-
-### WLS - Arms Warrior / Affliction Warlock / Restoration Shaman
-
-While slightly less popular this season than WMX, this composition is still quite strong. Typically, the Arms will train one of your teammates while the Warlock builds up resources using instant cast DoTs on your team. Once the Warrior has rotted a target low enough, CC will land on you and the enemy team will try to blow a target up with a combination of several Unstable Afflictions and the Warrior's Sharpen Blade (-50% healing taken) talent. Stay on top of dispelling your team and using line of sight to prevent being Feared as much as possible.
-
 ### WMX - Arms Warrior / Mage / Healer
 
 With the class balance changes implemented at the start of Legion Season 4, Warrior teams have seen a huge resurgence on the ladder. Typically, against this team, the warrior will train one target on your team providing a steady stream of damage until the mage can land a few good Polymorphs and follow up with enough burst damage to land a kill. Focus on preventing setups by the mage by having your team interrupt Polymorphs, using the *Premonition* (the old "Shadow Word: Death"/Inquisition) honor talent to break out of as many Polymorphs as possible, and lining all other casts behind pillars as much as possible. 
-
-### Any double melee team with a Demon Hunter
-
-Demon Hunters are particularly scary during their Metamorphosis cooldown. Try to minimize the damage coming out by either Mind Controlling the DH during his burst, or using Rapture with the Strength of Soul talent.
-
 
 ## Cooldowns <a name="cooldowns"></a>
 
@@ -249,7 +229,7 @@ You'll certainly want to have keybindings for targeting yourself, targeting part
 
 In arenas, you really don't want to be relying on either mouseover macros or having to click a unit frame to heal as things are too frantic and mouse movement is too important. The sooner you set those key bindings up and become accustomed to them the easier everything else will become.
 
-For example, I use this common setup:
+For example, many players use this common setup:
 
 ```
 +------+---------------------+--------------+
@@ -294,13 +274,6 @@ Mind Control arena1, arena2, arena3:
 /cast [@arena3] Mind Control
 ```
 
-PvP talent tier 6 macro:
-
-```
-#showtooltip 
-/cast [pvptalent:6/1] Power Word: Fortitude; [pvptalent:6/2] Archangel; [pvptalent:6/3] Dark Archangel
-```
-
 Angelic Feather macro for quickly casting it on yourself:
 
 ```
@@ -309,8 +282,7 @@ Angelic Feather macro for quickly casting it on yourself:
 /stopspelltarget
 ```
 
-Pain Suppression isn't on the global cooldown, meaning you can pair it with Power Word: Shield (if it's available)!
-
+Pain Suppression isn't on the global cooldown, meaning you can pair it with Power Word: Shield.
 ```
 #showtooltip
 /cast Pain Suppression
