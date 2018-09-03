@@ -57,7 +57,7 @@ Changes worth highlighting in a PvP context:
 
 ## Gearing<a name="gearing"></a>
 
-Gearing in Battle for Azeroth is once again impactful! While player power will be scaled within instance PvP, your secondary stats from equipped gear will remain intact. Further, trinkets are usable again. That means meaningful choices in terms of how you choose to gear your character!
+Gearing in Battle for Azeroth is once again impactful! While player power will be scaled within instanced PvP, your secondary stats from equipped gear will remain intact. Further, trinkets are usable again. That means meaningful choices in terms of how you choose to gear your character!
 
 Stats: int > haste > mastery > crit = vers.
 
@@ -73,9 +73,9 @@ TODO: Add Azerite Traits
 
 **Usually take -** *Twist of Fate*. Twist of Fate is still an incredibly strong talent for recovering from dangerous situations. It's a great choice when you're facing against a team that has a lot of crowd control for allowing you to recover quickly, or for when an enemy team is likely to tunnel and try to burst you down. When unsure of which talent to take here, defaulting to *Twist of Fate* is always a fine option.
 
-**Sometimes take -** *Castigation*. Castigation gives a straight 33% buff to one of our biggest damaging and healing spell, and - like most things Discipline - is great for both damaging and healing. While playing as a team with lots of control or playing against a team that has lots of spread pressure, *Castigation* can offer the most bang for your buck by allowing your team to stay offensive while providing strong healing through Atonement or direct healing (now that *The Penitent* is baseline) in emergency situations. It's particularly strong when playing with comps that try to close out a game quickly, such as RMP or Cupid. It can be very strong in 2v2 when paired with Honor talents like *Searing Light* and *Trinity* for keeping your team on the offensive.
+**Sometimes take -** *Schism*. While Schism can provide a substantial buff to your damage output, it gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency. Further, when you're in dire need of catch-up healing, this talent does nothing to help you recover. This talent can see use in the 2v2 bracket once you become comfortable with Discipline.
 
-**Rarely take -** *Schism*. While Schism can provide a substantial buff to your damage output, it gives the enemy team another way to lock you out of the Shadow spell school, preventing you from being able to cast Shadow Mend in an emergency. Further, when you're in dire need of catch-up healing, this talent does nothing to help you recover.
+**Rarely take -** *Castigation*. Castigation gives a straight 33% buff to Penance. While this was the default talent for much of Legion, unfortunately, Penance isn't very good at this point in Legion. Unless you have a *Power of the Dark Side* proc active, it's typically better to just Smite for damage or Shadow Mend for direct healing rather than casting an un-buffed Penance. (The obvious exception here is for when you need to be moving while healing or damaging.) It can be very strong in 2v2 when paired with Honor talents like *Searing Light* and *Trinity* for keeping your team on the offensive, but typically is the weakest of the three options.
 
 #### Row 2
 ![Talent row2](img/talent2.png)
@@ -137,7 +137,7 @@ Many of the talents have great situational uses, but won't be taken in every mat
 
 **Sometimes take -** *Relentless*. This can be a great choice against teams with minimal CC or several back-to-back blanket Silences. I find myself taking this talent much more often on my Human Priest (since the Human racial allows for a stun escape on a two minute cooldown) than I do on either of my Horde priests.
 
-**Sometimes take -** *Adaption*. This talent works best against teams with infrequent CC, or if your teammates are capable of breaking you out of some enemy crowd control (say a Retribution or Protection Paladin).
+**Rarely take -** *Adaption*. This talent works best against teams with infrequent CC, or if your teammates are capable of breaking you out of some enemy crowd control (say a Retribution or Protection Paladin).
 
 
 ### General Honor Talent Pool
