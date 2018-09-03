@@ -341,7 +341,7 @@ These days, most of the useful information you'll need to be successful in arena
 
 Knowing when to heal via Atonement versus direct heals is an art form and requires lots of practice to master. Don't get discouraged! When starting off, err to the side of caution by keeping your teammates topped off with Shields and defensive Penances and Shadow Mends -- fancy damage plays will come once you find your bearings. 
 
-At the start of the arena match, try to quickly stack up some Power Word: Shields and Clarity of Will on your teammates to help mitigate the enemy team's opener. Note that Clarity of Will stacks up to two casts worth of absorbs!
+At the start of the arena match, try to quickly cast Power Word: Shields on your teammates to help mitigate the enemy team's opener and get Atonement rolling for your Mastery bonus healing. 
 
 When facing against Restoration or Balance Druids, you can Mass Dispel Cyclones off of your teammates - just be wary of its cooldown and mana cost.
 
