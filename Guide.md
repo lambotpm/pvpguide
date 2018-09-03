@@ -363,8 +363,6 @@ Premonition can also be used as a free of mana cost heal on allies with Atonment
 
 Stay on top of Purging buffs from enemy Mages without blowing through too much mana! You can take their major DPS cooldowns (Combustion, Arcane Power, Icy Veins) and also their survivability cooldowns (Temporal Shield, Prismatic Barrier; Ice Block and Mass Invisibility via Mass Dispel).
 
-Retribution Paladins have a talent that causes them to autocast Divine Shield when they are about to die. Have a Mass Dispel ready to fire off when your team is close to securing a kill!
-
 When playing against a Rogue, try to have one of your teammates get into combat as soon as possible. If you heal somebody in combat with a quick Plea, you will get pulled into combat too and thus not be Sappable. (Works great with Hunter pets!)
 
 You can use *Shackle Undead* against a Death Knight's pets to temporarily remove them from the match. This is particularly strong against their Summon Gargoyle 3 minute DPS cooldown.
