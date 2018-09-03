@@ -242,12 +242,10 @@ For example, many players use this common setup:
 +------+---------------------+--------------+
 ```
 
-Macros are also a matter of personal preference to some degree - if you have a mouse with many buttons on the side, it may be easier to set up friendly dispel macros for yourself and your two party members, but if not it may just be easier to get comfortable targeting each member and using a standard dispel button. 
-
-Ultimately how you set up your character's bars is up to you, but here's some macros I've found useful. 
+Macros are also a matter of personal preference to some degree. As you get more practice in arena, you'll start to find more macros or keybinds that you wish you had. Don't beat yourself up over not getting used to new keybinds immediately; it takes practice and a lot of dedication. Ultimately how you set up your character's bars is up to you, but here's some macros I've found useful. 
 
 
-Dispelling:
+Dispelling (generic Purge effect, or useful for getting Mind Control off of a friendly target):
 
 ```
 #showtooltip
@@ -256,6 +254,41 @@ Dispelling:
 /cast [help] Purify; [harm] Dispel Magic
 /cast [@player] Purify
 ```
+
+Dispel Party 1 
+
+```
+#showtooltip
+/stopcasting
+/stopcasting
+/cast [@party1, help] Purify; [@party1, harm] Dispel Magic
+```
+
+Dispel Party 2
+
+```
+#showtooltip
+/stopcasting
+/stopcasting
+/cast [@party2, help] Purify; [@party2, harm] Dispel Magic
+```
+
+Dispel Self
+
+```
+#showtooltip
+/stopcasting
+/stopcasting
+/cast [@player] Purify
+```
+
+Focus Purge
+
+```
+#showtooltip
+/cast [@focus] Dispel Magic]
+```
+
 
 Mind Control arena1, arena2, arena3:
 
@@ -290,7 +323,7 @@ Pain Suppression isn't on the global cooldown, meaning you can pair it with Powe
 ```
 
 
-[For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/w5jif06H)
+[For a full list of my Priest macros (all 3 specs, PvE and PvP), please click here.](https://pastebin.com/eakYFScS)
 
 ## Addons <a name="addons"></a>
 
