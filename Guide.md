@@ -359,7 +359,7 @@ You can use *Premonition* to get out of most CC abilities classified as Incapaci
  - Shaman: Hex
  - Warlock: Fear, Succubus Seduction
 
-Premonition can also be used as a free of mana cost heal on allies with Atonments/apply atonement to yourself, be very vary of using it though (mainly use in 2v2s).
+Premonition can also be used as a free of mana cost heal on allies with Atonments/extend Atonement duration, which is great in RBGs where you have many Atonements out.
 
 Stay on top of Purging buffs from enemy Mages without blowing through too much mana! You can take their major DPS cooldowns (Combustion, Arcane Power, Icy Veins) and also their survivability cooldowns (Temporal Shield, Prismatic Barrier; Ice Block and Mass Invisibility via Mass Dispel).
 
