@@ -369,8 +369,6 @@ You can use *Shackle Undead* against a Death Knight's pets to temporarily remove
 
 You can place your *Power Word: Barrier* over an enemy Rogue's Smoke Bomb; friendlies inside will still receive the benefit.
 
-Enemy Priests have loads of Purgable buffs! Be on the look out for Holy Ward, Divinity, Power Infusion, and big Clarity of Wills. 
-
 If an enemy Priest Mind Controls one of your teammates, you can Purge the effect off of him.
 
 
